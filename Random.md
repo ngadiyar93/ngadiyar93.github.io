@@ -2,9 +2,7 @@
 
 If you are here, you probably want to know more about me. Well, first things first - my name Nishanth means dawn / end of darkness in *Sanskrit* (*Nishayaha Antaha*).
 
-I have just one name which is my first and given name. This is a common practise in some parts of India. However, this caused me issues when I came to the US - the Visa folks at the consulate gave me a new name - **FNU Nishanth**
-
-FNU stands for First Name Unknown and Nishanth is my given name, which falls in my last name field. **So, please don't call me FNU** 😕
+I have just one name which is my first and given name. This is a common practise in some parts of India. However, this caused me issues when I came to the US - the Visa folks at the consulate gave me a new name - **FNU Nishanth**. FNU stands for First Name Unknown and Nishanth is my given name, which falls in my last name field. **So, please don't call me FNU** 😕
 
 ### Nostalgia
 I spent my childhood in the coastal city of [Mangalore (Mangaluru)](https://en.wikipedia.org/wiki/Mangalore) in the state of Karnataka on the western coast of India.
