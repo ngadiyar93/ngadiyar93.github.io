@@ -5,7 +5,7 @@ Hi there 👋, I am Nishanth, a third year Electrical Engineering PhD student at
 My work at WEMPEC focusses on **_design and optimization of electric machines, power electronics, and control_**. Since joining WEMPEC in the Fall of 2018, I have been working on design and optimization of a high power density **_axial flux machine_** to electrify off-highway vehicles (excavators, tractors etc).
 
 You can get to know more about me by checking out the following sections of my website:
-- [Experience](https://ngadiyar93.github.io/)
+- [Experience](/Experience.html)
 - Research         
 - Awards and Honors       
 - Random Stuff
