@@ -1,26 +1,33 @@
 ## Random (fun?) Stuff
 
 If you are here, you probably want to know more about me. Well, first things first - my name Nishanth means dawn / end of darkness in *Sanskrit* (*Nishayaha Antaha*).
-Since birth I have just one name which is my first and given name. This is a common practise in some parts of India. However, this caused me issues when I came to the US - the Visa folks at the consulates gave me a new name - **FNU Nishanth**
-where, FNU stands for First Name Unknown and Nishanth is my given name, which falls in my last name field. **So, please don't call me FNU** :laugh:
+
+I have just one name which is my first and given name. This is a common practise in some parts of India. However, this caused me issues when I came to the US - the Visa folks at the consulate gave me a new name - **FNU Nishanth**
+
+FNU stands for First Name Unknown and Nishanth is my given name, which falls in my last name field. **So, please don't call me FNU** :confused:
 
 ### Nostalgia
 I spent my childhood in the coastal city of [Mangalore (Mangaluru)](https://en.wikipedia.org/wiki/Mangalore) in the state of Karnataka on the western coast of India.
 Mangalore has several monickers including **the cradle of indian banking**, **the ice-cream capital of India**, **the city of smart / well-educated people in Karnataka** etc.
 
 I was fortunate enough to live for a long time in the city of Mangalore which is extremely diverse in terms of religion, culture, and languages. 
-This has led me to learn several languages and acquire a flare for languages. My native language (the one I speak with family) is [Konkani](https://en.wikipedia.org/wiki/Konkani_language). 
+This has led me to learn several languages and acquire a flare for languages. 
+I can comfortably speak, read and write in English, Kannada, Hindi, Sanskrit. I can also speak Konkani and Tulu (they do not have an official script), as well as comprehend Tamil and Telugu to a reasonable extent. 
+My native language (the one I speak with family) is [Konkani](https://en.wikipedia.org/wiki/Konkani_language).
 Among the numerous dialects of Konkani, I speak the [Gaud Saraswat Brahmin](https://en.wikipedia.org/wiki/Gaud_Saraswat_Brahmin) dialect at home.
 
-I am proud to note that several people with origins from Mangalore have significantly contributed to electrical engineering (specifically power engineering). 
-This includes [Prof. Mangalore Anant Pai (M.A. Pai)](https://ece.illinois.edu/about/directory/faculty/mapai) at the University of Illinois Urbana-Champaign and [Prof. Jayant Baliga](https://www.ece.ncsu.edu/people/bjbaliga/) at NC State University (Inventor of the IGBT)
-
-One of my great-uncles, Prof. N.R. Kamath was a pioneering Chemical Engineer, professor of Chemical Engineering, and the first deputy director of the Indian Institute of Technology Bombay (IIT-Bombay).
+One of my great-uncles, Prof. N.R. Kamath was a pioneering Chemical Engineer, professor of Chemical Engineering, and the first deputy director of the Indian Institute of Technology Bombay (IIT-Bombay). I have always looked up to his life and career for inspiration, as I also want to tread in the path of teaching and research.
 His students have established a named professorship at IIT-Bomaby in his name. A youtube video about his life can be found [here](https://www.youtube.com/watch?v=4qMXQki9hqU) and some more material is [here](https://fundamatics.net/article/n-r-kamath-an-iconoclast-and-an-educator/)
 
+I am also proud to note that several people with origins from Mangalore have significantly contributed to electrical engineering (specifically power engineering). 
+This includes [Prof. Mangalore Anant Pai (M.A. Pai)](https://ece.illinois.edu/about/directory/faculty/mapai) at the University of Illinois Urbana-Champaign and [Prof. Jayant Baliga](https://www.ece.ncsu.edu/people/bjbaliga/) at NC State University (Inventor of the IGBT)
+
 ### Hobbies
-Since childhood, I haven't been athletic. I tried my hand at cricket and volleyball, but I was too bad. I used to spend the sports / physical education class hours in school, at the library or playing chess / board games
-So, my hobbies too are the non-athletic sort: Philately, Numismatics, Hobby Projects, Cooking, Music, and Quizzing.
+Since childhood, I haven't been athletic. I tried my hand at cricket and volleyball, but I was too bad. I used to spend the sports / physical education class hours in school, at the library or playing chess / board games.
+So, my hobbies too are the non-athletic sort: Reading, Philately, Numismatics, Hobby Projects, Cooking, Music, and Quizzing.
+
+#### Reading
+I used to be an avid reader of Enid Blyton, Agatha Christie, Jeffrey Archer, Sidney Sheldon, Jack Higgins, and J.K. Rowling. Off late I don't find much time to engage in reading. However, when I do, my Kindle likely won't have battery charged up. If it does, I still do read ocassionally.
 
 #### Philately and Numismatics
 I started collecting stamps and coins when a Norweigian friend of my grandparents' (who was also a Gandhi admirer) gifted me her collection of Gandhi stamps from across the world. 
