@@ -1,6 +1,8 @@
 ## Experience
 I was fortunate to be mentored by some of the best people and work with great minds, which helped me understand several technical concepts both in breadth and depth as well as their real world implications.
 
+A subset of my experience which can be classified as ***Research** and ***Teaching** are listed here.
+
 ### Research Experience
 - **Research Assistant at WEMPEC:** Development of an axial flux machine integrated with a hydraulic pump
   - Fall 2018 - present
@@ -37,7 +39,7 @@ I was fortunate to be mentored by some of the best people and work with great mi
   - Responsibilities: Teaching and mentoring freshmen in a basic electrical engineering lab. Skills taught include circuit connections, soldering, programming an MCU and interfacing with peripherals such as an LCD touch screen, joystick etc. 
   - Instructor: Prof. Mark Allie - Fall 2018-19
 
-- **Teaching Assistant at IIT-Madras:** 
+- **Teaching Assistant at IIT-Madras** 
   - **_Data structures and algorithms_**
   - Responsibilities: Preparing solution sets to exams; Conducting office hours to clarify student queries; Grading
   - Instructor: Prof. Gaurav Raina - 2017-18
