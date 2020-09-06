@@ -23,25 +23,25 @@ I was fortunate to be mentored by some of the best people and work with great mi
 
 ### Teaching Experience
 - **Teaching Assistant at UW-Madison**
- 1. **_ECE 713: Electromagnetic design of AC machines_** 
-    - A flagship graduate level WEMEPC Course
-    - Responsibilities: Mentoring students in an active learning class; Preparing solution sets to in-class exercises, exams, homeworks and projects; Teaching class sessions on FEA analysis; Grading; Conducting office hours to clarify student queries. 
-    - Instructor: Prof. Eric Severson - Fall 2019-20
+  - **_ECE 713: Electromagnetic design of AC machines_** 
+  - A flagship graduate level WEMEPC Course
+  - Responsibilities: Mentoring students in an active learning class; Preparing solution sets to in-class exercises, exams, homeworks and projects; Teaching class sessions on FEA analysis; Grading; Conducting office hours to clarify student queries. 
+  - Instructor: Prof. Eric Severson - Fall 2019-20
 
- 2. **_ECE 353: Introduction to microprocessor systems_**
-    - An undergraduate laboratory
-    - Responsibilities: Mentoring students in the lab - programming the TI Tiva C series MCU using Kiel; Grading; Proctoring exams; Conducting office hours to clarify student queries. 
-    - Instructor: Prof. Joe Krachey - Fall 2018-19
+  - **_ECE 353: Introduction to microprocessor systems_**
+  - An undergraduate laboratory
+  - Responsibilities: Mentoring students in the lab - programming the TI Tiva C series MCU using Kiel; Grading; Proctoring exams; Conducting office hours to clarify student queries. 
+  - Instructor: Prof. Joe Krachey - Fall 2018-19
 
- 3. **_ECE 210: Introductory experience in ECE_**
-    - Responsibilities: Teaching and mentoring freshmen in a basic electrical engineering lab. Skills taught include circuit connections, soldering, programming an MCU and interfacing with peripherals such as an LCD touch screen, joystick etc. 
-    - Instructor: Prof. Mark Allie - Fall 2018-19
+  - **_ECE 210: Introductory experience in ECE_**
+  - Responsibilities: Teaching and mentoring freshmen in a basic electrical engineering lab. Skills taught include circuit connections, soldering, programming an MCU and interfacing with peripherals such as an LCD touch screen, joystick etc. 
+  - Instructor: Prof. Mark Allie - Fall 2018-19
 
 - **Teaching Assistant at IIT-Madras:** 
- 1. **_Data structures and algorithms_**
-    - Responsibilities: Preparing solution sets to exams; Conducting office hours to clarify student queries; Grading
-    - Instructor: Prof. Gaurav Raina - 2017-18
+  - **_Data structures and algorithms_**
+  - Responsibilities: Preparing solution sets to exams; Conducting office hours to clarify student queries; Grading
+  - Instructor: Prof. Gaurav Raina - 2017-18
 
- 2. **_Electric machines laboratory_**
-    - Responsibilities: Supervising two groups (2-3 students in each group) in the electric machines laboratory; Viva-voce exams and grading for each experiement; 
-    - Instructors: Prof. Krishna Vasudevan, Prof. Srirama Srinivas, and Prof. Kamalesh Hatua - 2017-18
+  - **_Electric machines laboratory_**
+  - Responsibilities: Supervising two groups (2-3 students in each group) in the electric machines laboratory; Viva-voce exams and grading for each experiement; 
+  - Instructors: Prof. Krishna Vasudevan, Prof. Srirama Srinivas, and Prof. Kamalesh Hatua - 2017-18
