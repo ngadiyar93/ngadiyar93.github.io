@@ -10,6 +10,9 @@ You can get to know more about me by checking out the following sections of my w
 - Awards and Honors       
 - Random Stuff
 
+## Contact
+If you want to chat more, feel free to shoot me an e-mail at ``nishanth@wisc.edu``
+
 ## Academic Experience
 I was fortunate to be mentored by some of the best people and work with great minds, which helped me understand several technical concepts both in breadth and depth as well as their real world implications.
 
