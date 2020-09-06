@@ -32,7 +32,7 @@ I started collecting stamps and coins when a Norweigian friend of my grandparent
 To date I have approximately ten thousand stamps and approximately seven thousand coins + currency bills.
 
 #### Cooking
-I am quite proficient at cooking South and North Indian, Indo-Chinese, and Continental dishes. My favourite however remains vegetarian south indian food. I find cooking as a great stress reliever when I have a lot of work!
+I am quite proficient at cooking South and North Indian, Indo-Chinese, and Continental dishes. My favourite however remains vegetarian south indian food. I find cooking as a great stress reliever when I have a lot of work! I did try my hand at food blogging with a friend back in 2017 and [here is the blog](https://2hungrymen.blogspot.com/).
 
 #### Quizzing
 I was a proficient quizzer and participated (and won) over 30 quizzes in topics ranging from business, sports, science & technology right from school, through my undergraduate years.
