@@ -7,8 +7,10 @@ I am Nishanth, a third year Electrical Engineering PhD student at the [**Univers
 My work at WEMPEC focusses on **design and optimization of electric machines, power electronics, and control**. Since joining WEMPEC in the Fall of 2018, I have been working on design and optimization of a high power density **axial flux machine** to electrify off-highway vehicles (excavators, tractors etc).
 
 ## Experience
+I was fortunate to be mentored by some of the best advisors and work with great teams, which helped me understand several technical concepts both in breadth and depth as well as their real world implications.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**-Research Assistant at WEMPEC:** Development of an axial flux machine integrated with a hydraulic pump (jointly with the University of Minnesota)
+
 
 ```markdown
 Syntax highlighted code block
