@@ -1,5 +1,5 @@
 ## Experience
-I was fortunate to be mentored by some of the best people and work with great minds, which helped me understand several technical concepts both in breadth and depth as well as their real world implications. A subset of my experience is listed here.
+I was fortunate to be mentored by some of the best people and work with great minds, which helped me understand several technical concepts both in breadth and depth as well as their real world implications. A subset of my experience is listed here. Some of my projects can be found on my [Github page](https://github.com/ngadiyar93) and a few others on my [LinkedIn profile](https://www.linkedin.com/in/nishanth-21193/) .
 
 **Note:** I don't believe in the classification of these experiences into distinct **Research** and **Teaching** categories. I am a firm believer that research and teaching have a complex coupling. The *de-coupling* done here is only for making the website look organized...
 
