@@ -8,7 +8,7 @@ You can get to know more about me by checking out the following sections of my w
 - [Experience](/Experience.md)
 - [Research](/Research.md)         
 - [Awards and Honors](/Awards.md)       
-- Random Stuff
+- [Random Stuff](/Random.md)
 
 ## Contact
 If you want to chat more, feel free to shoot me an e-mail at ``nishanth@wisc.edu``
