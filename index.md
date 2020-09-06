@@ -1,4 +1,5 @@
-## Hi there 👋
+## About me
+### Hi there 👋
 
 I am Nishanth, a third year Electrical Engineering PhD student at the [University of Wisconsin-Madison](https://www.wisc.edu/) where I work with the world renowned [Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)](https://wempec.wisc.edu/). 
 
@@ -7,8 +8,6 @@ My work focusses on design and optimization of electric machines, power electron
 Before joining WEMPEC, I spent some years at the beautiful Indian Institute of Technology-Madras where I worked on projects that involved development of drive power electronics for a CNC machine, and another project that involved designing a HF link inverter for fuel cell applications. My stay was funded by a scholarship from the ministry of human resource development, Govt. of India (GATE Scholarship).
 
 I obtained my undergraduate degree, also in Electrical and Electronics Engineering from India in 2016. My undergraduate major project focussed on development and implementation of a Unipolar SPWM based reactive power compensator, which was funded by KSCST at the Indian Institute of Science (IISc) and adjudged as the best project of the year among over 200 funded projects that year.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
