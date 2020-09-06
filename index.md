@@ -6,7 +6,7 @@ My work at WEMPEC focusses on **_design and optimization of electric machines, p
 
 You can get to know more about me by checking out the following sections of my website:
 - [Experience](/Experience.md)
-- Research         
+- [Research](/Research.md)         
 - Awards and Honors       
 - Random Stuff
 
