@@ -40,4 +40,5 @@ I have also hosted a few quizzes at corporates events and inter-college fests in
 
 #### Music
 I am deeply interested in the Indian classical music. I got the inclination from my mother and maternal family. My mother is a trained Hindustani-Violinist and has performed several concerts. My maternal grandfather plays the Violin, Flute, Sitar, and Tabla. He also makes flutes from bamboo. My uncle plays the Tabla.
+
 I started off training in Carnatic classical music at the age of 7 and continued until the age of 13. I then discontinued as my teacher re-located. However to this day, I listen to Indian classical music when I work - I find it really soothing. My favourite raga is the *Hamsadhwani* I am somewhat deaf to rock, pop, metal and other forms of music :-)
