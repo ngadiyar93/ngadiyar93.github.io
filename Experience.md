@@ -41,5 +41,5 @@ I was fortunate to be mentored by some of the best people and work with great mi
     - Instructor: Prof. Gaurav Raina - 2017-18
 
  2. An undergraduate theory + lab course on **_Electric machines_**
-    - Responsibilities: 
+    - Responsibilities: Supervising two groups (2-3 students in each group) in the electric machines laboratory; Viva-voce exams and grading for each experiement; 
     - Instructors: Prof. Krishna Vasudevan, Prof. Srirama Srinivas, and Prof. Kamalesh Hatua - 2017-18
