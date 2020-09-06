@@ -36,10 +36,10 @@ I was fortunate to be mentored by some of the best people and work with great mi
     - Instructor: Prof. Mark Allie - Fall 2018-19
 
 - **Teaching Assistant at IIT-Madras:** 
-  1. An advanced course on **_Data structures and algorithms_**
+ 1. An advanced course on **_Data structures and algorithms_**
     - Responsibilities: Preparing solution sets to exams; Conducting office hours to clarify student queries; Grading
     - Instructor: Prof. Gaurav Raina - 2017-18
 
-  2. An undergraduate theory + lab course on **_Electric machines_**
+ 2. An undergraduate theory + lab course on **_Electric machines_**
     - Responsibilities: 
     - Instructors: Prof. Krishna Vasudevan, Prof. Srirama Srinivas, and Prof. Kamalesh Hatua - 2017-18
