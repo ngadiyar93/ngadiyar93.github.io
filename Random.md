@@ -35,7 +35,7 @@ To date I have approximately ten thousand stamps and approximately seven thousan
 I am quite proficient at cooking South and North Indian, Indo-Chinese, and Continental dishes. My favourite however remains vegetarian south indian food. I find cooking as a great stress reliever when I have a lot of work!
 
 #### Quizzing
-I was a proficient quizzer and participated (and won) over 50 quizzes in topics ranging from business, sports, science & technology right from school, through my undergraduate years.
+I was a proficient quizzer and participated (and won) over 30 quizzes in topics ranging from business, sports, science & technology right from school, through my undergraduate years.
 I have also hosted a few quizzes at corporates events and inter-college fests in India.
 
 #### Music
