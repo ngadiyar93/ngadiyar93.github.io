@@ -1,4 +1,6 @@
-## Introduction         Publications          Awards and Honors       Random Stuff
+## [Home](https://ngadiyar93.github.io/)&nbsp;&nbsp;      Publications&nbsp;&nbsp;          Awards and Honors&nbsp;&nbsp;       Random Stuff
+_____________________________________
+
 ## About me
 
 Hi there 👋, I am Nishanth, a third year Electrical Engineering PhD student at the [**_University of Wisconsin-Madison_**](https://www.wisc.edu/) where I work with the world renowned [**_Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)_**](https://wempec.wisc.edu/)- one of the largest industry-academia consortium in the world. 
