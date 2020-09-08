@@ -1,6 +1,7 @@
 ## Bio & Random (fun?) Stuff
+![image](/Bio.gif)
 
-If you are here, you probably want to know more about me. Well, first things first - my name Nishanth means dawn / end of darkness in *Sanskrit* (*Nishayaha Antaha*).
+If you are here, you probably want to know more about me. As I am agrad student who doesn't want to feel like a loser, I have made this section fairly long. Well, first things first - my name Nishanth means dawn / end of darkness in *Sanskrit* (*Nishayaha Antaha*).
 
 I have just one name which is my first and given name. This is a common practise in some parts of India. However, this caused me issues when I came to the US - the Visa folks at the consulate gave me a new name - **FNU Nishanth**. FNU stands for First Name Unknown and Nishanth is my given name, which falls in my last name field. **So, please don't call me FNU** 😕
 
@@ -43,4 +44,5 @@ I have also hosted a few quizzes at corporates events and inter-college fests in
 #### Music
 I am deeply interested in the Indian classical music. I got the inclination from my mother and maternal family. My mother is a trained Hindustani-Violinist and has performed several concerts. My maternal grandfather plays the Violin, Flute, Sitar, and Tabla. He also makes flutes from bamboo. My uncle plays the Tabla.
 
-I started off training in Carnatic classical music at the age of 7 and continued until the age of 13. I then discontinued as my teacher re-located. However to this day, I listen to Indian classical music (Hindustani and Carnatic) when I work - I find it really soothing. My favourite raga is the *Hamsadhwani* I am somewhat deaf to rock, pop, metal and other forms of music :-)
+I started off training in Carnatic classical music at the age of 7 and continued until the age of 13. I then discontinued as my teacher re-located. However to this day, I listen to Indian classical music (Hindustani and Carnatic) when I work - I find it really soothing. My favourite raga is the *Hamsadhwani*. 
+I am somewhat deaf to rock, pop, metal and other forms of music :-)
