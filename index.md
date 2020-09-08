@@ -12,3 +12,6 @@ You can get to know more about me by checking out the following sections of my w
 
 ## Contact
 If you'd like to connect, please feel free to send me a connection request on [LinkedIn](https://www.linkedin.com/in/nishanth-21193/)
+
+## Disclaimer
+The opinions expressed here represent my own and not those of my employer/associates/research group. The author is not to be held responsible for misuse, reuse, recycled and cited and/or uncited copies of content within this website by others.
