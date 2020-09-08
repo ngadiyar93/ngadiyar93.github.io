@@ -15,3 +15,5 @@ If you'd like to connect, please feel free to send me a connection request on [L
 
 ## Disclaimer
 The opinions expressed here represent my own and not those of my employer/associates/research group. The author is not to be held responsible for misuse, reuse, recycled and cited and/or uncited copies of content within this website by others.
+
+(c) Copyright Nishanth, Sept 2020
