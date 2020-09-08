@@ -1,5 +1,7 @@
 ## Awards and Honors
 
+![image](/Awards.jpg)
+
 Some of my academic (and other) achievements / accomplishments were recognized and have earned me some awards. A selected list is presented below:
 
 - Best project of the year award from KSCST, Indian Institute of Science (IISc) for my undergraduate project
