@@ -48,4 +48,4 @@ I was fortunate to be mentored by some of the best people and work with great mi
 
   - **_Electric machines laboratory_**
   - Responsibilities: Supervising two groups (2-3 students in each group) in the electric machines laboratory; Viva-voce exams and grading for each experiement; 
-  - Instructors: Prof. Krishna Vasudevan, Prof. Srirama Srinivas, and Prof. Kamalesh Hatua - 2017-18
+  - Instructors: Prof. Krishna Vasudevan, Prof. Srirama Srinivas, and Prof. Kamalesh Hatua - 2016-18
