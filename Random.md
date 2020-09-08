@@ -28,10 +28,10 @@ Since childhood, I haven't been athletic. I tried my hand at cricket and volleyb
 So, my hobbies too are the non-athletic sort: Reading, Philately, Numismatics, Hobby Projects, Cooking, Music, and Quizzing.
 
 #### Reading
-I used to be an avid reader of Enid Blyton, Agatha Christie, Jeffrey Archer, Sidney Sheldon, Jack Higgins, and J.K. Rowling. Off late I don't find much time to engage in reading. However, when I do, my Kindle likely won't have battery charged up. If it does, I still do read ocassionally.
+I used to be an avid reader (I still am a bibliophile) of Enid Blyton, Agatha Christie, Jeffrey Archer, Sidney Sheldon, Jack Higgins, and J.K. Rowling. Off late I don't find much time to engage in reading. However, when I do, my Kindle likely won't have battery charged up. If it does, I still do read ocassionally. I am working on a graduate student guide - a collection of my experience and experience of my colleagues in graduate school. I hope to publish it along with my PhD dissertation.
 
 #### Philately and Numismatics
-I started collecting stamps and coins when a Norweigian friend of my grandparents' (who was also a Gandhi admirer) gifted me her collection of Gandhi stamps from across the world. 
+I started collecting stamps and coins at the age of 6, when a Norweigian friend of my grandparents' (who was also a Gandhi admirer) gifted me her collection of Gandhi stamps from across the world. 
 To date I have approximately ten thousand stamps and approximately seven thousand coins + currency bills.
 
 #### Cooking
@@ -44,5 +44,5 @@ I have also hosted a few quizzes at corporates events and inter-college fests in
 #### Music
 I am deeply interested in the Indian classical music. I got the inclination from my mother and maternal family. My mother is a trained Hindustani-Violinist and has performed several concerts. My maternal grandfather plays the Violin, Flute, Sitar, and Tabla. He also makes flutes from bamboo. My uncle plays the Tabla.
 
-I started off training in Carnatic classical music at the age of 7 and continued until the age of 13. I then discontinued as my teacher re-located. However to this day, I listen to Indian classical music (Hindustani and Carnatic) when I work - I find it really soothing. My favourite raga is the *Hamsadhwani*. 
+I started off training in Carnatic classical music at the age of 7 and continued until the age of 12. To this day, I listen to Indian classical music (Hindustani and Carnatic) when I work - I find it really soothing. My favourite raga is the *Hamsadhwani*. 
 I am somewhat deaf to rock, pop, metal and other forms of music :-)
