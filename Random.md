@@ -11,17 +11,17 @@ I have just one name which is my first and given name. This is a common practise
 I spent my childhood in the coastal city of [Mangalore (Mangaluru)](https://en.wikipedia.org/wiki/Mangalore) in the state of Karnataka on the western coast of India.
 Mangalore has several monickers including **the cradle of indian banking**, **the ice-cream capital of India**, **the city of smart / well-educated people in Karnataka** etc.
 
-I was fortunate enough to live for a long time in the city of Mangalore which is extremely diverse in terms of religion, culture, and languages. 
-This has led me to learn several languages and acquire a flare for languages. 
+Mangalore is extremely diverse in terms of religion, culture, and languages. This has led me to learn several languages and acquire a flare for languages. 
 I can comfortably speak, read and write in English, Kannada, Hindi, Sanskrit. I can also speak Konkani and Tulu (they do not have an official script), as well as comprehend Tamil and Telugu to a reasonable extent. 
 My native language (the one I speak with family) is [Konkani](https://en.wikipedia.org/wiki/Konkani_language).
 Among the numerous dialects of Konkani, I speak the [Gaud Saraswat Brahmin](https://en.wikipedia.org/wiki/Gaud_Saraswat_Brahmin) dialect at home.
 
+### Inspirations
 One of my great-uncles, Prof. N.R. Kamath was a pioneering Chemical Engineer, professor of Chemical Engineering, and the first deputy director of the Indian Institute of Technology Bombay (IIT-Bombay). I have always looked up to his life and career for inspiration, as I also want to tread in the path of teaching and research.
 His students have established a named professorship at IIT-Bomaby in his name. A youtube video about his life can be found [here](https://www.youtube.com/watch?v=4qMXQki9hqU) and some more material is [here](https://fundamatics.net/article/n-r-kamath-an-iconoclast-and-an-educator/)
 
 I am also proud to note that several people with origins from Mangalore have significantly contributed to electrical engineering (specifically power engineering). 
-This includes [Prof. Mangalore Anant Pai (M.A. Pai)](https://ece.illinois.edu/about/directory/faculty/mapai) at the University of Illinois Urbana-Champaign and [Prof. Jayant Baliga](https://www.ece.ncsu.edu/people/bjbaliga/) at NC State University (Inventor of the IGBT)
+This includes [Prof. Mangalore Anant Pai (M.A. Pai)](https://ece.illinois.edu/about/directory/faculty/mapai) at the University of Illinois Urbana-Champaign and [Prof. Jayant Baliga](https://www.ece.ncsu.edu/people/bjbaliga/) at NC State University (Inventor of the IGBT). They have never ceased to inspire me..
 
 ### Hobbies
 Since childhood, I haven't been athletic. I tried my hand at cricket and volleyball, but I was too bad. I used to spend the sports / physical education class hours in school, at the library or playing chess / board games.
@@ -42,7 +42,7 @@ I was a proficient quizzer and participated (and won) over 30 quizzes in topics 
 I have also hosted a few quizzes at corporates events and inter-college fests in India.
 
 #### Music
-I am deeply interested in the Indian classical music. I got the inclination from my mother and maternal family. My mother is a trained Hindustani-Violinist and has performed several concerts. My maternal grandfather plays the Violin, Flute, Sitar, and Tabla. He also makes flutes from bamboo. My uncle plays the Tabla.
+I am deeply interested in the Indian classical music. _Hindustani / North Indian_ and _Carnatic / South Indian_ are two variants of the Indian classical music. I was introduced to music at a very young age by my mother and maternal family. My mother is a trained Hindustani-violinist and has performed several concerts. My maternal grandfather plays the Violin, Flute, Sitar, and Tabla. He also makes flutes from bamboo. My uncle plays the Tabla.
 
-I started off training in Carnatic classical music at the age of 7 and continued until the age of 12. To this day, I listen to Indian classical music (Hindustani and Carnatic) when I work - I find it really soothing. My favourite raga is the *Hamsadhwani*. 
-I am somewhat deaf to rock, pop, metal and other forms of music :-)
+I started off training in Carnatic classical music at the age of 7 and continued until the age of 12. However, I couldn't continue later. But to this day, I listen to Indian classical music (Hindustani and Carnatic) when I work - I find it really soothing. My favourite raga is the *Hamsadhwani*. 
+I am somewhat deaf to rock, pop, metal and other forms of music. I find them quite harsh on my ears.
