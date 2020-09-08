@@ -1,4 +1,5 @@
 ## Research
+![image](/intelFreedom.gif)
 
 My research is in the broad domain of Electric machine design, power electronics and control. Currently (as of 09/2020), I am working on design and optimization of an axial flux machine that will be integrated with a hydraulic pump to electrify off-highway vehicles.
 My work is funded by the US department of energy. 
