@@ -17,4 +17,4 @@ A list of selected publications is provided below. For a current list, please ch
 [4] Bohach, Garrett R., **F. N. U. Nishanth**, Eric Severson, and James Van de Ven. "MODELING AND OPTIMIZATION STUDY OF A TIGHTLY INTEGRATED ROTARY ELECTRIC MOTOR-HYDRAULIC PUMP." In Proceedings of the 2019 ASME/BATH Symposium on Fluid Power and Motion Control, no. FPMC2019-1626. University of Minnesota, Twin Cities, 2019.
 
 ### Disclaimer
-The machines I work on (atleast for now) have nothing to do with the *Machine Learning* that people go crazy over. It is my usualy (old) joke that I don't do _Machine Learning_ but I am "learning" _Machines_.
+The machines I work on (atleast for now) have nothing to do with the *Machine Learning* that people go crazy over. It is my usual (old) joke that I don't do _Machine Learning_ but I am "learning" _Machines_.
