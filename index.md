@@ -8,7 +8,7 @@ You can get to know more about me by checking out the following sections of my w
 - [Experience](/Experience.md)
 - [Research](/Research.md)         
 - [Awards and Honors](/Awards.md)       
-- [Random Stuff](/Random.md)
+- [Bio & Fun Stuff](/Random.md)
 
 ## Contact
 If you'd like to connect, please feel free to send me a connection request on [LinkedIn](https://www.linkedin.com/in/nishanth-21193/)
