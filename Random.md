@@ -18,7 +18,7 @@ Among the numerous dialects of Konkani, I speak the [Gaud Saraswat Brahmin](http
 
 ### Inspirations
 One of my great-uncles, Prof. N.R. Kamath was a pioneering Chemical Engineer, professor of Chemical Engineering, and the first deputy director of the Indian Institute of Technology Bombay (IIT-Bombay). I have always looked up to his life and career for inspiration, as I also want to tread in the path of teaching and research.
-His students have established a named professorship at IIT-Bomaby in his name. A youtube video about his life can be found [here](https://www.youtube.com/watch?v=4qMXQki9hqU) and some more material is [here](https://fundamatics.net/article/n-r-kamath-an-iconoclast-and-an-educator/)
+His students have established a named professorship at IIT-Bombay in his name. A youtube video about his life can be found [here](https://www.youtube.com/watch?v=4qMXQki9hqU) and some more material is [here](https://fundamatics.net/article/n-r-kamath-an-iconoclast-and-an-educator/)
 
 I am also proud to note that several people with origins from Mangalore have significantly contributed to electrical engineering (specifically power engineering). 
 This includes [Prof. Mangalore Anant Pai (M.A. Pai)](https://ece.illinois.edu/about/directory/faculty/mapai) at the University of Illinois Urbana-Champaign and [Prof. Jayant Baliga](https://www.ece.ncsu.edu/people/bjbaliga/) at NC State University (Inventor of the IGBT). They have never ceased to inspire me..
