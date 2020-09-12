@@ -11,3 +11,6 @@ Some of my academic (and other) achievements / accomplishments were recognized a
 - Honorable mention for the project **InDhan** at TI India Innovation Design Challenge 2017 / 18 ($500 worth components from Texas Instruments)
 - Selected for initial funding worth ($5,000) for the project/startup **SmartR Grid** at Carbon Zero Challenge 2017 - IIT Madras and US Consulate Chennai, India (This project never materialized due to funding delays and we opted out).
 - Scholarship from the ministry of human resource development Govt. of India (GATE fellowship) for entire duration of study at IIT-Madras
+
+![image](/KSCST_Photo_Nishanth.jpg)
+In picture: Recieving the best project of the year award for my undergraduate project 
