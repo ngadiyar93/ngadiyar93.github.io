@@ -13,4 +13,5 @@ Some of my academic (and other) achievements / accomplishments were recognized a
 - Scholarship from the ministry of human resource development Govt. of India (GATE fellowship) for entire duration of study at IIT-Madras
 
 ![image](/KSCST_Photo_Nishanth.jpg)
+
 In picture: Recieving the best project of the year award for my undergraduate project 
