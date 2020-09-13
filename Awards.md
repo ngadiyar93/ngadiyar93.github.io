@@ -14,4 +14,4 @@ Some of my academic (and other) achievements / accomplishments were recognized a
 
 ![image](/KSCST_Photo_Nishanth.jpg)
 
-In picture: Receiving the best project of the year award (awarded by KSCST, IISc India) for my undergraduate project 
+**In picture:** Receiving the best project of the year award (awarded by KSCST, IISc India) for my undergraduate project. This award was presented after three rounds of rigorous screening by a panel of experts comprising of scientists from ISRO, NAL, DRDO and faculty from IISc.
