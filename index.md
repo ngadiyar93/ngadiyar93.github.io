@@ -1,6 +1,7 @@
 ## News
+- **October 2020:** Nishanth to present the paper _"Design of an Axial Flux Machine with an Integrated Hydraulic Pump for Off-Highway Vehicle Electrification"_ at the [2020 IEEE Energy Conversion Congress and Exposition (ECCE)](http://www.ieee-ecce.org/2020/)
 - **August 2020:** Nishanth to speak at the [UK Magnetics Society Online Conference](https://ukmagsoc.org/events/magnetics-students-online-conference/)
-- **June 2020:** Nishanth presented the paper "Comparison of Linear and Rotary Electric Machine Topologies for a Hybrid Hydraulic Electric Architecture of Off-Highway Vehicles", at the [_2020 IEEE Transportation Electrification Conference and Exposition_](https://itec-conf.com/)
+- **June 2020:** Nishanth presented the paper _"Comparison of Linear and Rotary Electric Machine Topologies for a Hybrid Hydraulic Electric Architecture of Off-Highway Vehicles"_, at the [2020 IEEE Transportation Electrification Conference and Exposition](https://itec-conf.com/)
 
 ## About me
 
