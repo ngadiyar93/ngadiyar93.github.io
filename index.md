@@ -14,6 +14,7 @@ You can get to know more about me by checking out the following sections of my w
 - [Research](/Research.md)         
 - [Awards and Honors](/Awards.md)       
 - [Bio & Fun Stuff](/Random.md)
+- [Blog](/Blog.md)
 
 Apart from adding an occassional update, I typically do not find much time to keep all sections of this website updated. Unless there is something significant that I am bursting to share, I will be updating this website on the following US federal holidays: Labor day, Thanksgiving, New year's day, and Memorial day. Please do not think I am lazy :-)
 
