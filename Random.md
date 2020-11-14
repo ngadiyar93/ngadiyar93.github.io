@@ -11,8 +11,8 @@ I have just one name which is my first and given name. This is a common practise
 I spent my childhood in the coastal city of [Mangalore (Mangaluru)](https://en.wikipedia.org/wiki/Mangalore) in the state of Karnataka on the western coast of India.
 Mangalore has several monickers including **the cradle of indian banking**, **the ice-cream capital of India**, **the city of smart / well-educated people in Karnataka** etc.
 
-Mangalore is extremely diverse in terms of religion, culture, and languages. This has led me to learn several languages and acquire a flare for languages. 
-I can comfortably speak, read and write in English, Kannada, Hindi, Sanskrit. I can also speak Konkani and Tulu (they do not have an official script), as well as comprehend Tamil and Telugu to a reasonable extent. 
+Mangalore is extremely diverse in terms of religion, culture, and languages. This has helped me to become fluent in several languages and acquire a flare for learning new languages. 
+I can comfortably speak, read and write in English, Kannada, and Hindi. I can read and write in Sanskrit. I can also speak Konkani and Tulu (they do not have an official script), as well as comprehend Tamil and Telugu to a reasonable extent. 
 My native language (the one I speak with family) is [Konkani](https://en.wikipedia.org/wiki/Konkani_language).
 Among the numerous dialects of Konkani, I speak the [Gaud Saraswat Brahmin](https://en.wikipedia.org/wiki/Gaud_Saraswat_Brahmin) dialect at home.
 
