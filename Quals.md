@@ -1,4 +1,4 @@
-## What is a qualifying exam?
+## What is a PhD qualifying exam?
 Every candidate pursuing the PhD degree is generally required to take a qualifying examination (popularly called _quals_). This exam is basically an "official license" to pursue PhD in the department.
 The format of this exam is program specific. i.e, it is not universal. For example, at UW-Madison, the CS and the ECE departments have VERY different qualifying exam structure. In fact,
 specializations within CS (such as ML / Security / Theoritical CS / Systems) have different format / requirements.
@@ -15,5 +15,5 @@ UW ECE, has to take the qualifying exam in their 4th semester - irrespective of 
 
 _To be continued..._
 
-**Disclaimer:** Any UW - ECE specific details quoted here are as of Summer 2020. These details are not exhaustive. As policies change frequently, the author is not to be held accountable / responsible for any inaccuracies. 
+**Disclaimer:** Any UW - ECE specific details quoted here are the author's interpretation of the rules from Summer 2020. These details are not exhaustive. As policies change frequently, the author is not to be held accountable / responsible for any inaccuracies. 
 Please refer the official student handbook / talk to your academic advisor / graduate program coordinator for specific details and rules applicable to your case.
