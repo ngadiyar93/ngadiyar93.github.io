@@ -42,7 +42,7 @@ I was a proficient quizzer and participated (and won) over 30 quizzes in topics 
 I have also hosted a few quizzes at corporates events and inter-college fests in India.
 
 #### Music
-I am deeply interested in the Indian classical music. _Hindustani / North Indian_ and _Carnatic / South Indian_ are two variants of the Indian classical music. I was introduced to music at a very young age by my mother and maternal family. My mother is a trained Hindustani-violinist and has performed several concerts. My maternal grandfather plays the Violin, Flute, Sitar, and Tabla. He also makes flutes from bamboo. My uncle plays the Tabla.
+I am deeply interested in the Indian classical music. _Hindustani / North Indian_ and _Carnatic / South Indian_ are two variants of the Indian classical music. I was introduced to music at a very young age by my mother who is a trained Hindustani-violinist and has performed several concerts.
 
 I started off training in Carnatic classical music at the age of 7 and continued until the age of 12. However, I couldn't continue later. But to this day, I listen to Indian classical music (Hindustani and Carnatic) when I work - I find it really soothing. My favourite raga is the *Hamsadhwani*. 
 I am somewhat deaf to rock, pop, metal and other forms of music. I find them quite harsh on my ears.
