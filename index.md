@@ -1,5 +1,5 @@
 ## News
-- **December 2020:** Nishanth to intern with Mitsubishi Electric Research Laboratories (MERL), Cambridge, MA in Summer 2021.
+- **December 2020:** Nishanth to intern with [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/), Cambridge, MA in Summer 2021.
 - **December 2020:** Graduated with Masters (Research option) in Electrical Engineering from UW-Madison, continuing towards PhD.
 - **October 2020:** Nishanth to present the paper _"Design of an Axial Flux Machine with an Integrated Hydraulic Pump for Off-Highway Vehicle Electrification"_ at the [2020 IEEE Energy Conversion Congress and Exposition (ECCE)](http://www.ieee-ecce.org/2020/)
 - **August 2020:** Nishanth to speak at the [UK Magnetics Society Online Conference](https://ukmagsoc.org/events/magnetics-students-online-conference/)
