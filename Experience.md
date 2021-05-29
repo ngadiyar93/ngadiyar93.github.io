@@ -11,6 +11,11 @@ I was fortunate to be mentored by some of the best people and work with great mi
   - Advisor: Prof. Eric Severson
   - Project funded by the US. Dept. of Energy Office of Energy Efficiency and Renewable Energy
 
+- **Research Internship at Mitsubishi Electric Research Labs:**
+  - Summer 2021
+  - Advisor: Dr. Bingnan Wang
+  - Numerical analysis of electric machines
+
 - **Independent Study / Extension of ECE 512 Project:** Design and testing of a GaN H-bridge and re-design of PEGO power electronics educational lab kit
   - Fall 2019 - Spring 2020 (paused due to CoVID-19)
   - Advisor: Prof. Giri Venkataramanan
