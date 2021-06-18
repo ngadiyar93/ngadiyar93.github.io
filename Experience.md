@@ -6,6 +6,10 @@ I was fortunate to be mentored by some of the best people and work with great mi
 ![image](/Resume.gif)
 
 ### Research Experience
+- **Research Intern at [MERL](https://www.merl.com/):** Numerical Analysis and Optimization of Electric Machines
+  - Summer 2021
+  - Advisor: Dr Bingnan Wang
+
 - **Research Assistant at WEMPEC:** Development of an axial flux machine integrated with a hydraulic pump
   - Fall 2018 - present
   - Advisor: Prof. Eric Severson
