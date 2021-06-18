@@ -36,6 +36,11 @@ I was fortunate to be mentored by some of the best people and work with great mi
   - Responsibilities: Mentoring students in an active learning class; Preparing solution sets to in-class exercises, exams, homeworks and projects; Teaching class sessions on FEA analysis; Grading; Conducting office hours to clarify student queries. 
   - Instructor: Prof. Eric Severson - Fall 2019-20
 
+  - **_ECE 412: Power Electronic Circuits_** 
+  - A graduate level WEMEPC Course
+  - Responsibilities: Mentoring students in an active learning class; Creating problem sets and preparing solutions to in-class exercises, exams, and homeworks; Grading exams; Conducting office hours to clarify student queries. 
+  - Instructor: Prof. Eric Severson - Spring 2021
+
   - **_ECE 353: Introduction to microprocessor systems_**
   - An undergraduate laboratory
   - Responsibilities: Mentoring students in the lab - programming the TI Tiva C series MCU using Kiel; Grading; Proctoring exams; Conducting office hours to clarify student queries. 
