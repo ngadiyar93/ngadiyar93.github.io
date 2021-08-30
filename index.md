@@ -8,7 +8,7 @@
 
 Hi there 👋, I am Nishanth, a fourth year Electrical Engineering PhD student at the [_University of Wisconsin-Madison_](https://www.wisc.edu/) where I work with the world renowned [_Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)_](https://wempec.wisc.edu/)- one of the largest industry-academia consortium in the world. I am advised by [Prof. Eric Severson](https://severson.wempec.wisc.edu/) and fortunate to be part of a young and dymanic research group that works on cool, niche (and weird) electric machines. 
 
-My work at WEMPEC focusses on **_design and optimization of electric machines, power electronics, and control_**. Since joining WEMPEC in the Fall of 2018, I have been working on design and optimization of a high power density **_axial flux machine_** to electrify off-highway vehicles (excavators, tractors etc).
+My work at WEMPEC focusses on **_design and optimization of electric machines, power electronics, and control_**. Since joining WEMPEC in the Fall of 2018, I have been working on design and optimization of power dense **_axial flux machines_** to electrify off-highway vehicles (excavators, tractors etc).
 
 You can get to know more about me by checking out the following sections of my website:
 - [Experience](/Experience.md)
@@ -17,7 +17,7 @@ You can get to know more about me by checking out the following sections of my w
 - [Bio & Fun Stuff](/Random.md)
 - [Blog](/Blog.md)
 
-Apart from adding an occassional update, I typically do not find much time to keep all sections of this website updated. Unless there is something significant that I am bursting to share, I will be updating this website on the following US federal holidays: Labor day, Thanksgiving, New year's day, and Memorial day. Please do not think I am lazy :-)
+Apart from adding an occassional update, I typically do not find much time to keep all sections of this website updated. Unless there is something significant that I am bursting to share, I will be updating this website on the following US federal holidays: Labor day, Thanksgiving, New year's day, and Memorial day. Please do not think that I am lazy :-)
 
 ![image](/Lazy.gif)
 
