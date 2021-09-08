@@ -4,7 +4,7 @@
 - **May 2021:** Nishanth to present the paper _“A Review of Thermal Analysis and Management of Power Dense Electric Machines”_ at the [2021 IEEE International Electric Machines and Drives Conference (IEMDC 2021)](https://iemdc-2021.com/). 
 - **May 2021:** Nishanth to present on _Axial Flux Machine Design to Electrify Off-highway Vehicles_ at the [2021 WEMPEC Annual Review](https://wempec.wisc.edu/annual-review/). 
 - **December 2020:** Nishanth to intern with [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/), Cambridge, MA in Summer 2021.
-- **December 2020:** Graduated with Masters (Research option) in Electrical Engineering from UW-Madison, continuing towards PhD.
+- **December 2020:** Graduated with Masters (Research option) in Electrical Engineering from UW-Madison en-route PhD.
 
 ## About me
 
