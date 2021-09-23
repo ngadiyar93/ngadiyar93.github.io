@@ -31,4 +31,3 @@ The opinions expressed here represent my own and not those of my employer/associ
 
 (c) Copyright Nishanth, Dec 2020; 
 
-Last updated on 31-Dec-2020; Next scheduled update: Memorial Day 2021
