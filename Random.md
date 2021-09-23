@@ -7,9 +7,9 @@ I have just one name which is my first and given name. This is a common practise
 
 **Note:** For a more professional Bio and/or CV, please drop me a message on LinkedIn or e-mail me at ``nishanth@wisc.edu``. If you want a quick professional bio, see below:
 
-``` Nishanth is a native of Mangalore, India. He received his undergraduate degree in 2015 with first rank and gold medal (highest honors), and his master's degree in 2020, all in Electrical Engineering. Between 2016-2018 he was a research scholar at the Indian Institute of Technology Madras, supported by the MHRD (GATE) fellowship from the Govt. of India. Since 2018 he is a PhD student and research assistant with the Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC) at the University of Wisconsin-Madison, USA. Nishanth's work at WEMPEC focuses on design and development of novel drive systems for off-highway vehicle electrification. His interests include electric machine design, drives, power electronics, and engineering education.```
+``` Nishanth is a native of Mangalore, India. He received his undergraduate degree in 2015, and his master's degree in 2020, all in Electrical Engineering. Between 2016-2018 he was a research scholar at the Indian Institute of Technology Madras, supported by the MHRD (GATE) fellowship from the Govt. of India. Since 2018 he is a PhD student and research assistant with the Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC) at the University of Wisconsin-Madison, USA. Nishanth's work at WEMPEC focuses on design and development of novel drive systems for off-highway vehicle electrification. His interests include electric machine design, power electronics, control, and engineering education.```
 
-### Nostalgia
+### Random stuff
 I spent my childhood in the coastal city of [Mangalore (Mangaluru)](https://en.wikipedia.org/wiki/Mangalore) in the state of Karnataka on the western coast of India.
 Mangalore has several monickers including **the cradle of indian banking**, **the ice-cream capital of India**, **the city of smart / well-educated people in Karnataka** etc.
 
@@ -18,11 +18,11 @@ I can comfortably speak, read and write in English, Kannada, and Hindi. I can re
 My native language (the one I speak with family) is [Konkani](https://en.wikipedia.org/wiki/Konkani_language).
 Among the numerous dialects of Konkani, I speak the [Gaud Saraswat Brahmin](https://en.wikipedia.org/wiki/Gaud_Saraswat_Brahmin) dialect at home.
 
-### Inspirations
+### People who inspire me
 One of my great-uncles, Prof. N.R. Kamath was a pioneering Chemical Engineer, professor of Chemical Engineering, and the first deputy director of the Indian Institute of Technology Bombay (IIT-Bombay). I have always looked up to his life and career for inspiration, as I also want to tread in the path of teaching and research.
 His students have established a named professorship at IIT-Bombay in his memory. A youtube video about his life can be found [here](https://www.youtube.com/watch?v=4qMXQki9hqU) and some more material is [here](https://fundamatics.net/article/n-r-kamath-an-iconoclast-and-an-educator/)
 
-I am also proud to note that several people with origins from Mangalore have significantly contributed to electrical engineering (specifically power engineering). 
+Several people with origins from my hometown Mangalore have significantly contributed to electrical engineering (specifically power engineering). 
 This includes [Prof. Mangalore Anant Pai (M.A. Pai)](https://ece.illinois.edu/about/directory/faculty/mapai) at the University of Illinois Urbana-Champaign and [Prof. Jayant Baliga](https://www.ece.ncsu.edu/people/bjbaliga/) at NC State University (Inventor of the IGBT). They have never ceased to inspire me..
 
 ### Hobbies
@@ -35,9 +35,6 @@ I used to be an avid reader (I still am a bibliophile) of Enid Blyton, Agatha Ch
 #### Philately and Numismatics
 I started collecting stamps and coins at the age of 6, when a Norweigian friend of my grandparents' (who was a M.K. Gandhi admirer) gifted me her collection of stamps with M.K. Gandhi on them from different countries across the world. 
 To date I have approximately ten thousand stamps and approximately seven thousand coins + currency from over 40 countries.
-
-#### Cooking
-I am quite proficient at cooking South and North Indian, Indo-Chinese, and Continental dishes. My favourite however remains vegetarian south indian food. I find cooking as a great stress reliever when I have a lot of work! I did try my hand at food blogging with a friend back in 2017 and [here is the blog](https://2hungrymen.blogspot.com/).
 
 #### Quizzing
 I was a proficient quizzer and participated (and won) over 30 quizzes in topics ranging from business, sports, science & technology right from school, through my undergraduate years.
