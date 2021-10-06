@@ -5,7 +5,7 @@ If you are here, you probably want to know more about me. As I am a grad student
 
 I have just one name which is my first and given name. This is a common practise in some parts of India. However, this caused me issues when I came to the US - the Visa folks at the consulate gave me a new name - **FNU Nishanth**. FNU stands for First Name Unknown and Nishanth is my given name, which falls in my last name field. **So, please don't call me FNU** 😕
 
-**Note:** For a more professional Bio and/or CV, please drop me a message on LinkedIn or e-mail me at ``nishanth@wisc.edu``. If you want a quick professional bio, see below:
+**Note:** For a more professional Bio and/or a CV (self aggrandizement), please drop me a message on LinkedIn or e-mail me at ``nishanth@wisc.edu``. If you want a quick professional bio, see below:
 
 ``` Nishanth is a native of Mangalore, India. He received his undergraduate degree in 2015, and his master's degree in 2020, all in Electrical Engineering. Between 2016-2018 he was a research scholar at the Indian Institute of Technology Madras, supported by the MHRD (GATE) fellowship from the Govt. of India. Since 2018 he is a PhD student and research assistant with the Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC) at the University of Wisconsin-Madison, USA. Nishanth's work at WEMPEC focuses on design and development of novel drive systems for off-highway vehicle electrification. His interests include electric machine design, power electronics, control, and engineering education.```
 
