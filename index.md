@@ -1,10 +1,10 @@
 ## News
+- **December 2021:** Nishanth passed the PhD preliminary examination and is officially a PhD candidate / Dissertator / ABD (All But Dissertation) starting **Spring 2022**.
 - **July 2021:** Nishanth received the IEEE IAS / PELS travel grant to attend the [2021 IEEE Energy Conversion Congress and Exposition (ECCE)](https://www.ieee-ecce.org/2021/) at Vancouver, BC, Canada. (Unfortunately now the conference is Online).
 - **July 2021:** Nishanth's research featured by [Siemens Digital Industries Software](https://www.plm.automation.siemens.com/global/en/our-story/customers/wempec/99244/). 
 - **May 2021:** Nishanth to present the paper _“A Review of Thermal Analysis and Management of Power Dense Electric Machines”_ at the [2021 IEEE International Electric Machines and Drives Conference (IEMDC 2021)](https://iemdc-2021.com/). 
 - **May 2021:** Nishanth to present on _Axial Flux Machine Design to Electrify Off-highway Vehicles_ at the [2021 WEMPEC Annual Review](https://wempec.wisc.edu/annual-review/). 
 - **December 2020:** Nishanth to intern with [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/), Cambridge, MA in Summer 2021.
-- **December 2020:** Graduated with Masters (Research option) in Electrical Engineering from UW-Madison en-route PhD.
 
 ## About me
 
