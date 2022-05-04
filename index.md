@@ -1,5 +1,5 @@
 ## News
-- **April 2022:** Nishanth received the 2022 Wisconsin Power Engineering Award. These awards are supported by the power engineering program at UW-Madison ([WEMPEC](https://wempec.wisc.edu/) and [PESERC](https://pserc.wisc.edu/)) and are intended to identify upcoming talent and recognize scholarly achievement in power engineering.
+- **April 2022:** Nishanth received the 2022 Wisconsin Power Engineering Award. These awards are supported by the power engineering program at UW-Madison ([WEMPEC](https://wempec.wisc.edu/) and [PSERC](https://pserc.wisc.edu/)) and are intended to identify upcoming talent and recognize scholarly achievement in power engineering.
 - **December 2021:** Nishanth passed the PhD preliminary examination and is officially a PhD candidate / Dissertator / ABD (All But Dissertation) starting **Spring 2022**.
 - **July 2021:** Nishanth received the IEEE IAS / PELS travel grant to attend the [2021 IEEE Energy Conversion Congress and Exposition (ECCE)](https://www.ieee-ecce.org/2021/) at Vancouver, BC, Canada. (Unfortunately now the conference is Online).
 - **July 2021:** Nishanth's research featured by [Siemens Digital Industries Software](https://www.plm.automation.siemens.com/global/en/our-story/customers/wempec/99244/). 
