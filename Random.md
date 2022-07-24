@@ -3,7 +3,7 @@
 
 If you are here, you probably want to know more about me. As I am a grad student (with a short bio) who doesn't want to feel like a loser, I have made this section fairly long. Well, first things first - my name Nishanth means dawn / end of darkness in *Sanskrit* (*Nishayaha Antaha*).
 
-I have just one name which is my first and given name. This is a common practise in some parts of India. However, this caused me issues when I came to the US - the Visa folks at the consulate gave me a new name - **FNU Nishanth**. FNU stands for First Name Unknown and Nishanth is my given name, which falls in my last name field. **So, please don't call me FNU** 😕
+I have just one name which is my first and given name. This is a common practise in some parts of India. However, this caused me issues when I came to the US - the Visa folks at the consulate gave me a new name - **FNU Nishanth**. FNU stands for First Name Unknown and Nishanth is my given name, which falls in my last name field. **So, thanks in advance for not calling me FNU** 😕
 
 **Note:** For a more professional Bio and/or a CV (self aggrandizement), please drop me a message on LinkedIn or e-mail me at ``nishanth@wisc.edu``. If you want a quick professional bio, see below:
 
