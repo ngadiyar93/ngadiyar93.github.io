@@ -8,7 +8,7 @@ A list of selected publications is provided below. For a current list, please ch
 
 **Note 1:** My name appears as FNU Nishanth in most publications, as I only have one name. FNU stands for (First Name Unknown). You can read more about it [here](/Random.md)
 
-**Note 2:** The machines I work on (atleast for now) have nothing to do with the *Machine Learning* that people go crazy over. It is my usual (old) joke that I don't do _Machine Learning_ but I am "learning" _Machines_.
+**Note 2:** The machines I work on (atleast for now) have nothing (much) to do with the *Machine Learning* that people go crazy over. It is my usual (old) joke that I don't do _Machine Learning_ but I am "learning" _Machines_.
 
 [1] **Nishanth, F. N. U.**, Anvar Khamitov, and Eric L. Severson. "Comparison of Linear and Rotary Electric Machine Topologies for a Hybrid Hydraulic Electric Architecture of Off-Highway Vehicles." In 2020 IEEE Transportation Electrification Conference & Expo (ITEC), pp. 1063-1068. IEEE, 2020.
 
