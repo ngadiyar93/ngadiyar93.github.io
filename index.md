@@ -1,8 +1,9 @@
 ## News
+-**July 2022:** Our paper _Development of an Integrated Electro-Hydraulic Machine to Electrify Off-highway Vehicles_ has been accepted for publication in the Sept/Oct 2022 issue of IEEE Transactions on Industry Applications. The early access verison is available [here.](https://ieeexplore.ieee.org/document/9826430)
+-**June 2022:** Nishanth received the Spring 2022 ECE Department Dissertator Travel Award to attend and present a paper at ITEC 2022, Anaheim, CA. 
+-**June 2022:** Nishanth is a part of the team that won the ITEC 2022 Battery SoC estimation student contest. More information [here](https://engineering.wisc.edu/blog/ece-graduate-students-win-battery-algorithm-competition/)
 - **April 2022:** Nishanth received the 2022 Wisconsin Power Engineering Award. These awards are supported by the power engineering program at UW-Madison ([WEMPEC](https://wempec.wisc.edu/) and [PSERC](https://pserc.wisc.edu/)) and are intended to identify upcoming talent and recognize scholarly achievement in power engineering.
 - **December 2021:** Nishanth passed the PhD preliminary examination and is officially a PhD candidate / Dissertator / ABD (All But Dissertation) starting **Spring 2022**.
-- **July 2021:** Nishanth received the IEEE IAS / PELS travel grant to attend the [2021 IEEE Energy Conversion Congress and Exposition (ECCE)](https://www.ieee-ecce.org/2021/) at Vancouver, BC, Canada. (Unfortunately now the conference is Online).
-- **July 2021:** Nishanth's research featured by [Siemens Digital Industries Software](https://www.plm.automation.siemens.com/global/en/our-story/customers/wempec/99244/). 
 
 ## About me
 
