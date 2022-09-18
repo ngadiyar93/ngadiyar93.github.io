@@ -1,13 +1,14 @@
 ## News
+- **Sept 2022:** Nishanth is expected to graduate in early Spring 2023. Looking for industrial R&D and/or tenure track positions starting Fall 2023 or later. 
+- **Aug 2022:** Nishanth received the Fall 2022 ECE Department Dissertator Travel Award to attend and present a paper at ECCE 2022, Detroit, MI. 
 - **July 2022:** Our paper _Development of an Integrated Electro-Hydraulic Machine to Electrify Off-highway Vehicles_ has been accepted for publication in the Sept/Oct 2022 issue of IEEE Transactions on Industry Applications. The early access verison is available [here.](https://ieeexplore.ieee.org/document/9826430)
 - **June 2022:** Nishanth received the Spring 2022 ECE Department Dissertator Travel Award to attend and present a paper at ITEC 2022, Anaheim, CA. 
 - **June 2022:** Nishanth is a part of the team that won the ITEC 2022 Battery SoC estimation student contest. More information [here](https://engineering.wisc.edu/blog/ece-graduate-students-win-battery-algorithm-competition/)
 - **April 2022:** Nishanth received the 2022 Wisconsin Power Engineering Award. These awards are supported by the power engineering program at UW-Madison ([WEMPEC](https://wempec.wisc.edu/) and [PSERC](https://pserc.wisc.edu/)) and are intended to identify upcoming talent and recognize scholarly achievement in power engineering.
-- **December 2021:** Nishanth passed the PhD preliminary examination and is officially a PhD candidate / Dissertator / ABD (All But Dissertation) starting **Spring 2022**.
 
 ## About me
 
-Hi there 👋, I am Nishanth, a fourth year Electrical Engineering PhD student at the [_University of Wisconsin-Madison_](https://www.wisc.edu/) where I work with the world renowned [_Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)_](https://wempec.wisc.edu/)- one of the largest industry-academia consortium in the world. I am advised by [Prof. Eric Severson](https://severson.wempec.wisc.edu/) and fortunate to be part of a young and dynamic research group that works on cool, niche (and weird) electric machines. 
+Hi there 👋, I am Nishanth, a fifth year Electrical Engineering PhD student at the [_University of Wisconsin-Madison_](https://www.wisc.edu/) where I work with the world renowned [_Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)_](https://wempec.wisc.edu/)- one of the largest industry-academia consortium in the world. I am advised by [Prof. Eric Severson](https://severson.wempec.wisc.edu/) and fortunate to be part of a young and dynamic research group that works on cool, niche (and weird) electric machines. 
 
 My work at WEMPEC focusses on **_design and optimization of electric machines, power electronics, and control_**. Since joining WEMPEC in the Fall of 2018, I have been working on design and optimization of power dense **_axial flux machines_** to electrify off-highway vehicles (excavators, tractors etc).
 
