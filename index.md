@@ -1,8 +1,8 @@
 ## News
-- **Sept 2022:** Nishanth is expected to graduate in early Spring 2023. Looking for industrial R&D and/or tenure track positions starting Fall 2023 or later. 
+- **Jan 2023:** Nishanth is expected to defend in February 2023. Looking for industrial R&D and/or tenure track positions starting Fall 2023 or later. 
+- **Dec 2022:** Nishanth is the Young Professional Chair for the [2023 IEEE Transportation Electrification Conference, Detroit, MI](https://itec-conf.com/conference/committees/). 
 - **Aug 2022:** Nishanth received the Fall 2022 ECE Department Dissertator Travel Award to attend and present a paper at ECCE 2022, Detroit, MI. 
 - **July 2022:** Our paper _Development of an Integrated Electro-Hydraulic Machine to Electrify Off-highway Vehicles_ has been accepted for publication in the Sept/Oct 2022 issue of IEEE Transactions on Industry Applications. The early access verison is available [here.](https://ieeexplore.ieee.org/document/9826430)
-- **June 2022:** Nishanth received the Spring 2022 ECE Department Dissertator Travel Award to attend and present a paper at ITEC 2022, Anaheim, CA. 
 - **June 2022:** Nishanth is a part of the team that won the ITEC 2022 Battery SoC estimation student contest. More information [here](https://engineering.wisc.edu/blog/ece-graduate-students-win-battery-algorithm-competition/)
 - **April 2022:** Nishanth received the 2022 Wisconsin Power Engineering Award. These awards are supported by the power engineering program at UW-Madison ([WEMPEC](https://wempec.wisc.edu/) and [PSERC](https://pserc.wisc.edu/)) and are intended to identify upcoming talent and recognize scholarly achievement in power engineering.
 
