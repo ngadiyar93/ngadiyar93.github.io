@@ -1,5 +1,5 @@
 ## News
-- **Jan 2023:** Nishanth is expected to defend in February 2023. Looking for industrial R&D and/or tenure track positions starting Fall 2023 or later. 
+- **Feb 2023:** Nishanth successfully defended on Feb 7th 2023 and will continue at WEMPEC as a post-doc. Looking for industrial R&D and/or post-doc and/or tenure track positions starting Fall 2023 or later. 
 - **Dec 2022:** Nishanth is the Young Professional Chair for the [2023 IEEE Transportation Electrification Conference, Detroit, MI](https://itec-conf.com/conference/committees/). 
 - **Aug 2022:** Nishanth received the Fall 2022 ECE Department Dissertator Travel Award to attend and present a paper at ECCE 2022, Detroit, MI. 
 - **July 2022:** Our paper _Development of an Integrated Electro-Hydraulic Machine to Electrify Off-highway Vehicles_ has been accepted for publication in the Sept/Oct 2022 issue of IEEE Transactions on Industry Applications. The early access verison is available [here.](https://ieeexplore.ieee.org/document/9826430)
@@ -8,7 +8,7 @@
 
 ## About me
 
-Hi there 👋, I am Nishanth, a fifth year Electrical Engineering PhD student at the [_University of Wisconsin-Madison_](https://www.wisc.edu/) where I work with the world renowned [_Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)_](https://wempec.wisc.edu/)- one of the largest industry-academia consortium in the world. I am advised by [Prof. Eric Severson](https://severson.wempec.wisc.edu/) and fortunate to be part of a young and dynamic research group that works on cool, niche (and weird) electric machines. 
+Hi there 👋, I am Nishanth, a post-doctoral research associate at the [_University of Wisconsin-Madison_](https://www.wisc.edu/) where I work with the world renowned [_Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)_](https://wempec.wisc.edu/)- one of the largest industry-academia consortium in the world. I am advised by [Prof. Eric Severson](https://severson.wempec.wisc.edu/) and fortunate to be part of a young and dynamic research group that works on cool, niche (and weird) electric machines. Prior to starting as a post-doc, I obtained my Ph.D. also from WEMPEC in 2023.
 
 My work at WEMPEC focusses on **_design and optimization of electric machines, power electronics, and control_**. Since joining WEMPEC in the Fall of 2018, I have been working on design and optimization of power dense **_axial flux machines_** to electrify off-highway vehicles (excavators, tractors etc).
 
