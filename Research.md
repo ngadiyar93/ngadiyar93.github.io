@@ -1,7 +1,7 @@
 ## Research
 ![image](/intelFreedom.gif)
 
-My research is in the broad domain of electric machine design, power electronics and control.
+My research is in the intersection of electric machine design, power electronics and control to realize power-dense, efficient, and cost-effective electric drive systems. My Ph.D. research focused on electrification of off-highway vehicles.
 
 For a current list of my publications, please check out my [Google Scholar profile](https://scholar.google.com/citations?user=CPd0z5gAAAAJ&hl=en)
 
