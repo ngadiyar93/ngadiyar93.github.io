@@ -1,5 +1,5 @@
 ## News
-- **Feb 2023:** Nishanth successfully defended on Feb 7th 2023 and will continue at WEMPEC as a post-doc. Looking for industrial R&D and/or post-doc and/or tenure track positions (in the order of increasing difficulty) starting Fall 2023 or later. 
+- **Feb 2023:** Nishanth successfully defended on Feb 7th 2023 and will continue at WEMPEC as a post-doc. Looking for industrial R&D and/or post-doc and/or tenure track positions (in random order) starting Fall 2023 or later. 
 - **Dec 2022:** Nishanth is the Young Professional Chair for the [2023 IEEE Transportation Electrification Conference, Detroit, MI](https://itec-conf.com/conference/committees/). 
 - **Aug 2022:** Nishanth received the Fall 2022 ECE Department Dissertator Travel Award to attend and present a paper at ECCE 2022, Detroit, MI. 
 - **July 2022:** Our paper _Development of an Integrated Electro-Hydraulic Machine to Electrify Off-highway Vehicles_ has been accepted for publication in the Sept/Oct 2022 issue of IEEE Transactions on Industry Applications. The early access verison is available [here.](https://ieeexplore.ieee.org/document/9826430)
