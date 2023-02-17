@@ -6,12 +6,17 @@ I was fortunate to be mentored by some of the best people and work with great mi
 ![image](/Resume.gif)
 
 ### Research Experience
+- **Post-doc Research Associate at WEMPEC:** Design of high performance electric machines
+  - Since Spring 2023
+  - Advisor: Prof. Eric Severson
+  - Project funded by the US. Dept. of Energy Office of Energy Efficiency and Renewable Energy
+
 - **Research Internship at [Mitsubishi Electric Research Laboratories](https://www.merl.com/):** Numerical Analysis and Optimization of Electric Machines
   - Summer 2021
   - Advisor: Dr Bingnan Wang
 
 - **Research Assistant at WEMPEC:** Development of an axial flux machine integrated with a hydraulic pump
-  - Fall 2018 - present
+  - Fall 2018 - Spring 2023
   - Advisor: Prof. Eric Severson
   - Project funded by the US. Dept. of Energy Office of Energy Efficiency and Renewable Energy
 
@@ -31,8 +36,8 @@ I was fortunate to be mentored by some of the best people and work with great mi
 
 ### Teaching Experience
 - **Teaching Assistant at UW-Madison**
-  - **_ECE 713: Electromagnetic design of AC machines_** 
-  - A flagship graduate level WEMEPC Course
+  - **_ECE 713: Electromagnetic Design of AC Machines_** 
+  - A flagship graduate level WEMEPC course that teaches the electromagnetic design of rotating machines from first principles.
   - Responsibilities: Mentoring students in an active learning class; Preparing solution sets to in-class exercises, exams, homeworks and projects; Teaching class sessions on FEA analysis; Grading; Conducting office hours to clarify student queries. 
   - Instructor: Prof. Eric Severson - Fall 2019-20
 
@@ -41,20 +46,20 @@ I was fortunate to be mentored by some of the best people and work with great mi
   - Responsibilities: Mentoring students in an active learning class; Creating problem sets and preparing solutions to in-class exercises, exams, and homeworks; Grading exams; Conducting office hours to clarify student queries. 
   - Instructor: Prof. Eric Severson - Spring 2021
 
-  - **_ECE 353: Introduction to microprocessor systems_**
+  - **_ECE 353: Introduction to Microprocessor Systems_**
   - An undergraduate laboratory
   - Responsibilities: Mentoring students in the lab - programming the TI Tiva C series MCU using Kiel; Grading; Proctoring exams; Conducting office hours to clarify student queries. 
   - Instructor: Prof. Joe Krachey - Fall 2018-19
 
-  - **_ECE 210: Introductory experience in ECE_**
+  - **_ECE 210: Introductory Experience in ECE_**
   - Responsibilities: Teaching and mentoring freshmen in a basic electrical engineering lab. Skills taught include circuit connections, soldering, programming an MCU and interfacing with peripherals such as an LCD touch screen, joystick etc. 
   - Instructor: Prof. Mark Allie - Fall 2018-19
 
-- **Teaching Assistant at IIT-Madras** 
-  - **_Data structures and algorithms_**
+- **Teaching Assistant at the Indian Institute of Technology-Madras** 
+  - **_Data Structures and Algorithms_**
   - Responsibilities: Preparing solution sets to exams; Conducting office hours to clarify student queries; Grading
   - Instructor: Prof. Gaurav Raina - 2017-18
 
-  - **_Electric machines laboratory_**
+  - **_Electric Machines Laboratory_**
   - Responsibilities: Supervising two groups (2-3 students in each group) in the electric machines laboratory; Viva-voce exams and grading for each experiement; 
   - Instructors: Prof. Krishna Vasudevan, Prof. Srirama Srinivas, and Prof. Kamalesh Hatua - 2016-18
