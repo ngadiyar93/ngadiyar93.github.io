@@ -1,8 +1,8 @@
 ## News
-- **Feb 2023:** Nishanth successfully defended on Feb 7th 2023 and will continue at WEMPEC as a post-doc. Looking for industrial R&D and/or post-doc and/or tenure track positions (in random order) starting Fall 2023 or later. 
+- **July 2023:** Nishanth's post doc at WEMPEC is ending. Stay tuned for updates!
+- **June 2023:** Our paper on a novel 3D printed axial flux machine is accepted in the IEEE Transactions on Energy Conversion You can find it [here](https://ieeexplore.ieee.org/abstract/document/10149361)
+- **Feb 2023:** Nishanth successfully defended on Feb 7th 2023 and will continue at WEMPEC as a post-doc for some more months.
 - **Dec 2022:** Nishanth is the Young Professional Chair for the [2023 IEEE Transportation Electrification Conference, Detroit, MI](https://itec-conf.com/conference/committees/). 
-- **Aug 2022:** Nishanth received the Fall 2022 ECE Department Dissertator Travel Award to attend and present a paper at ECCE 2022, Detroit, MI. 
-- **July 2022:** Our paper _Development of an Integrated Electro-Hydraulic Machine to Electrify Off-highway Vehicles_ has been accepted for publication in the Sept/Oct 2022 issue of IEEE Transactions on Industry Applications. The early access verison is available [here.](https://ieeexplore.ieee.org/document/9826430)
 - **June 2022:** Nishanth is a part of the team that won the ITEC 2022 Battery SoC estimation student contest. More information [here](https://engineering.wisc.edu/blog/ece-graduate-students-win-battery-algorithm-competition/)
 - **April 2022:** Nishanth received the 2022 Wisconsin Power Engineering Award. These awards are supported by the power engineering program at UW-Madison ([WEMPEC](https://wempec.wisc.edu/) and [PSERC](https://pserc.wisc.edu/)) and are intended to identify upcoming talent and recognize scholarly achievement in power engineering.
 
@@ -29,5 +29,5 @@ If you'd like to connect, please feel free to send me a connection request on [L
 ## Disclaimer
 The opinions expressed here represent my own and not those of my employer/associates/research group. The author is not to be held responsible for misuse, reuse, recycled and cited and/or uncited copies of content within this website by others.
 
-(c) Copyright Nishanth, Dec 2020; 
+(c) Copyright Nishanth, Dec 2020; Last updated July 4 2023. 
 
