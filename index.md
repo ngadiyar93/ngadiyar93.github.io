@@ -1,6 +1,6 @@
 ## News
 - **July 2023:** Nishanth's post doc at WEMPEC is ending. Stay tuned for updates!
-- **June 2023:** Our paper on a novel 3D printed axial flux machine is accepted in the IEEE Transactions on Energy Conversion You can find it [here](https://ieeexplore.ieee.org/abstract/document/10149361)
+- **June 2023:** Our paper on a novel 3D printed axial flux machine is accepted in the IEEE Transactions on Energy Conversion. You can find it [here](https://ieeexplore.ieee.org/abstract/document/10149361)
 - **Feb 2023:** Nishanth successfully defended on Feb 7th 2023 and will continue at WEMPEC as a post-doc for some more months.
 - **Dec 2022:** Nishanth is the Young Professional Chair for the [2023 IEEE Transportation Electrification Conference, Detroit, MI](https://itec-conf.com/conference/committees/). 
 - **June 2022:** Nishanth is a part of the team that won the ITEC 2022 Battery SoC estimation student contest. More information [here](https://engineering.wisc.edu/blog/ece-graduate-students-win-battery-algorithm-competition/)
