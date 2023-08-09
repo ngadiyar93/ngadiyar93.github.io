@@ -1,9 +1,9 @@
 ## News
-- **July 2023:** Nishanth's post doc at WEMPEC is ending. Stay tuned for updates!
+- **July 2023:** Our 3D printed axial flux machine received a lot of media attention! You can read more about it [here](https://madison.com/news/local/education/university/uw-madison-engineer-electric-motor/article_1a27d7fc-1521-11ee-9275-6fae1daf00ed.html), [here](https://madison.com/collaboration-produces-breakthrough/article_53a52d34-c679-5b16-a693-259baed1d68c.html), [here](https://3dadept.com/sheffield-researchers-develop-a-3d-printed-electric-motor-in-collaboration-with-the-university-of-wisconsin-madison/), [here](https://www.metal-am.com/additively-manufactured-electric-motor-offers-increased-power-and-less-material-usage/), and [here](https://www.aandrijvenenbesturen.nl/nieuws/algemeen/nid9476-ge3dgeprinte-stator-laat-tanden-zien.html) (There are more in English, German, French, and Dutch!).
 - **June 2023:** Our paper on a novel 3D printed axial flux machine is accepted in the IEEE Transactions on Energy Conversion. You can find it [here](https://ieeexplore.ieee.org/abstract/document/10149361)
-- **Feb 2023:** Nishanth successfully defended on Feb 7th 2023 and will continue at WEMPEC as a post-doc for some more months.
+- **Feb 2023:** Nishanth successfully defended his Ph.D. on Feb 7th 2023 and will continue at WEMPEC as a post-doc for some more months.
 - **Dec 2022:** Nishanth is the Young Professional Chair for the [2023 IEEE Transportation Electrification Conference, Detroit, MI](https://itec-conf.com/conference/committees/). 
-- **June 2022:** Nishanth is a part of the team that won the ITEC 2022 Battery SoC estimation student contest. More information [here](https://engineering.wisc.edu/blog/ece-graduate-students-win-battery-algorithm-competition/)
+- **June 2022:** Nishanth led a team that won the ITEC 2022 Battery SoC estimation student contest. More information [here](https://engineering.wisc.edu/blog/ece-graduate-students-win-battery-algorithm-competition/)
 - **April 2022:** Nishanth received the 2022 Wisconsin Power Engineering Award. These awards are supported by the power engineering program at UW-Madison ([WEMPEC](https://wempec.wisc.edu/) and [PSERC](https://pserc.wisc.edu/)) and are intended to identify upcoming talent and recognize scholarly achievement in power engineering.
 
 ## About me
