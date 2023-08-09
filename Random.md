@@ -11,35 +11,34 @@ I have just one name which is my first and given name. This is a common practise
 
 ### Random stuff
 I spent my childhood in the coastal city of [Mangalore (Mangaluru)](https://en.wikipedia.org/wiki/Mangalore) in the state of Karnataka on the western coast of India.
-Mangalore has several monickers including **the cradle of indian banking**, **the ice-cream capital of India**, **the city of smart / well-educated people in Karnataka** etc.
+Mangalore has several monickers including **the cradle of indian banking**, **the ice-cream capital of India** etc.
 
 Mangalore is extremely diverse in terms of religion, culture, and languages. This has helped me to become fluent in several languages and acquire a flare for learning new languages. 
 I can comfortably speak, read and write in English, Kannada, and Hindi. I can read and write in Sanskrit. I can also speak Konkani and Tulu (they do not have an official script), as well as comprehend Tamil and Telugu to a reasonable extent. 
-My native language (the one I speak with family) is [Konkani](https://en.wikipedia.org/wiki/Konkani_language).
-Among the numerous dialects of Konkani, I speak the [Gaud Saraswat Brahmin](https://en.wikipedia.org/wiki/Gaud_Saraswat_Brahmin) dialect at home.
+My native language (the one I speak with family) is [Konkani](https://en.wikipedia.org/wiki/Konkani_language), of which I speak the [Gaud Saraswat Brahmin](https://en.wikipedia.org/wiki/Gaud_Saraswat_Brahmin) dialect.
 
 ### People who inspire me
-One of my great-uncles, Prof. N.R. Kamath was a pioneering Chemical Engineer, professor of Chemical Engineering, and the first deputy director of the Indian Institute of Technology Bombay (IIT-Bombay). I have always looked up to his life and career for inspiration, as I also want to tread in the path of teaching and research.
+One of my great-uncles, Prof. N.R. Kamath was a pioneering Chemical Engineer. He was the founding deputy director and chair of the chemical engineering department at the Indian Institute of Technology Bombay (IIT-Bombay). I have always looked up to his life and career for inspiration.
 His students have established a named professorship at IIT-Bombay in his memory. A youtube video about his life can be found [here](https://www.youtube.com/watch?v=4qMXQki9hqU) and some more material is [here](https://fundamatics.net/article/n-r-kamath-an-iconoclast-and-an-educator/)
 
 Several people with origins from my hometown Mangalore have significantly contributed to electrical engineering (specifically power engineering). 
-This includes [Prof. Mangalore Anant Pai (M.A. Pai)](https://ece.illinois.edu/about/directory/faculty/mapai) at the University of Illinois Urbana-Champaign and [Prof. Jayant Baliga](https://www.ece.ncsu.edu/people/bjbaliga/) at NC State University (Inventor of the IGBT). They have never ceased to inspire me..
+This includes [Late Prof. Mangalore Anant Pai (M.A. Pai)](https://ece.illinois.edu/about/directory/faculty/mapai) at the University of Illinois Urbana-Champaign and [Prof. Jayant Baliga](https://www.ece.ncsu.edu/people/bjbaliga/) at NC State University (Inventor of the IGBT). They have never ceased to inspire me..
 
 ### Hobbies
 Since childhood, I haven't been very athletic. I tried my hand at cricket and volleyball, but I was too bad. I used to spend the sports / physical education class hours in school, at the library or playing chess / board games.
 So, my hobbies too are the non-athletic sort: Reading, Philately, Numismatics, Hobby Projects, Cooking, Music, and Quizzing.
 
 #### Reading
-I used to be an avid reader (I still am a bibliophile) of Enid Blyton, Agatha Christie, Jeffrey Archer, Sidney Sheldon, Jack Higgins, and J.K. Rowling. Of late I don't find much time to engage in reading. However, when I do, my Kindle likely won't have battery charged up. If it does, I do read. I am working on a graduate student guide - a collection of my experience and experience of my colleagues in graduate school. I hope to publish it along with my PhD dissertation sometime in 2022 / 2023.
+I used to be an avid reader (I am still a bibliophile) of Enid Blyton, Agatha Christie, Jeffrey Archer, Sidney Sheldon, Jack Higgins, and J.K. Rowling. Of late I don't find much time to engage in reading. However, when I do, my Kindle likely won't have battery charged up. If it does, I do read. I am working on a graduate student guide - a collection of my experience and experience of my colleagues in graduate school. I hope to publish it sometime in 2023 / 2024.
 
 #### Philately and Numismatics
 I started collecting stamps and coins at the age of 6, when a Norweigian friend of my grandparents' (who was a M.K. Gandhi admirer) gifted me her collection of stamps with M.K. Gandhi on them from different countries across the world. 
 To date I have approximately ten thousand stamps and approximately seven thousand coins + currency from over 40 countries.
 
 #### Quizzing / Trivia
-I was a proficient quizzer (trivia events in India) and participated (and won) over 30 quizzes in topics ranging from business, sports, science & technology right from school, through my undergraduate years. Some of the quizzes that I took part in include Tata crucible, TCS IT Quiz, NITK Incident quiz, Sentia quiz at MITE etc.
+I was a proficient quizzer (trivia events in India) and participated (and won) over 30 quizzes in topics ranging from business, sports, science & technology right from school, through my undergraduate years. Some of the quizzes that I took part in include Tata crucible, TCS IT Quiz, and NITK Incident quiz.
 I have also hosted a few quizzes at corporates events and inter-college events in India.
 
 #### Music
 I am deeply interested in the Indian classical music. _Hindustani / North Indian_ and _Carnatic / South Indian_ are two variants of the Indian classical music. I was introduced to music at a very young age by my mother who is a trained Hindustani-violinist with several concerts to her credit.
-I started off training in Carnatic classical music at the age of 7 and continued until the age of 12. However, I couldn't continue later. But to this day, I listen to Indian classical music (Hindustani and Carnatic) when I work - I find it really soothing. My favourite raga is the *Hamsadhwani*.
+I started off training in Carnatic classical music at the age of 7 and continued until the age of 12. However, I couldn't continue later. But to this day, I listen to Indian classical music (Hindustani and Carnatic) when I work - I find it really soothing. My favourite raga is the *Hamsadhwani*, which incidentally comes from the Carnatic variant.
