@@ -1,7 +1,7 @@
 ## Research
 ![image](/intelFreedom.gif)
 
-My research is in the intersection of electric machine design, power electronics and control. My Ph.D. research focused on electrification of off-highway vehicles.
+My research is at the intersection of electric machine design, power electronics and control, from milliwatt scale to the megawatt scale. I have a particular soft spot for multi-harmonic, topology optimized, and additively manufactured electric machines that unlock additional degrees of freedom.  
 
 For a current list of my publications, please check out my [Google Scholar profile](https://scholar.google.com/citations?user=CPd0z5gAAAAJ&hl=en)
 
