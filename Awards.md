@@ -4,6 +4,7 @@
 
 Some of my academic (and other) achievements / accomplishments were recognized and have earned me some awards. A selected list is presented below:
 
+- The [Distinguished Staff Fellowship](https://www.ornl.gov/careers/distinguished-fellowships) 2024. These fellowships are awarded by the Oak Ridge National Laboratory (ORNL) to outstanding early-career scientists and engineers, who demonstrate success within their academic, professional, and technical areas.
 - The Wisconsin Power Engineering Award 2022. This award is a recognition of scholarly achievement in power engineering and was presented by the College of Engineering, University of Wisconsin-Madison.
 - Member of the winning team at the [2022 ITEC + EATS Battery State of Charge Estimation Contest](https://tec.ieee.org/what-s-new/2022-ieee-aiaa-itec-eats-battery-state-of-charge-estimation-student-competition) 
 - Best project of the year award from [KSCST, Indian Institute of Science (IISc)](https://www.kscst.org.in/) for my undergraduate project
