@@ -1,4 +1,5 @@
 ## News
+- **May 2024:** Nishanth is soon moving to the [Oak Ridge National Laboratory](https://www.ornl.gov/) as a Distinguished Staff Fellow.
 - **Feb 2024:** Nishanth is the Publicity Chair for the [2025 IEEE International Electric Machines and Drives Conference (IEMDC)](https://www.iemdc.org/organizing-committee/). 
 - **Dec 2023:** Nishanth is the Young Professional Activities Chair for the [2024 IEEE Transportation Electrification Conference](https://itec-conf.com/conference/committees/). 
 - **August 2023:** Nishanth joined GE Research, a distinguished industrial research organization in Niskayuna, NY as a Research Engineer. Read more about GE Research [here](https://en.wikipedia.org/wiki/General_Electric_Research_Laboratory).
@@ -7,9 +8,9 @@
 
 ## About me
 
-Hi there 👋, I am Nishanth, a post-doctoral research associate at the [_University of Wisconsin-Madison_](https://www.wisc.edu/) where I work with the world renowned [_Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)_](https://wempec.wisc.edu/)- one of the largest industry-academia consortium in the world. I am advised by [Prof. Eric Severson](https://severson.wempec.wisc.edu/) and fortunate to be part of a young and dynamic research group that works on cool, niche (and weird) electric machines. Prior to starting as a post-doc, I obtained my Ph.D. also from WEMPEC in 2023.
+Hi there 👋, I am Nishanth, a researcher at GE Research in Niskayuna, NY. Previously I was a post-doctoral research associate at the [_University of Wisconsin-Madison_](https://www.wisc.edu/) where I worked with the world renowned [_Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)_](https://wempec.wisc.edu/)- one of the largest industry-academia consortium in the world. I was advised by [Prof. Eric Severson](https://severson.wempec.wisc.edu/) and fortunate to be part of a young and dynamic research group that works on cool, niche (and weird) electric machines. Prior to starting as a post-doc, I obtained my Ph.D. from WEMPEC in February 2023.
 
-My work at WEMPEC focusses on **_design and optimization of electric machines, power electronics, and control_**. Since joining WEMPEC in the Fall of 2018, I have been working on design and optimization of power dense **_axial flux machines_** to electrify off-highway vehicles (excavators, tractors etc).
+My work at WEMPEC focused on **_design and optimization of electric machines, power electronics, and control_**. Since joining WEMPEC in the Fall of 2018, I worked on design and optimization of power dense **_axial flux machines_** to electrify off-highway vehicles (excavators, tractors etc).
 
 You can get to know more about me by checking out the following sections of my website:
 - [Experience](/Experience.md)
@@ -18,7 +19,7 @@ You can get to know more about me by checking out the following sections of my w
 - [Bio & Fun Stuff](/Random.md)
 - [Blog](/Blog.md)
 
-Apart from adding an occassional update, I typically do not find much time to keep all sections of this website updated. Unless there is something significant that I am bursting to share, I will be updating this website on the following US federal holidays: Labor day, Thanksgiving, New year's day, and Memorial day. Please do not think that I am lazy :-)
+Apart from adding an occassional update, I typically do not find much time to keep all sections of this website updated. Unless there is something significant that I am bursting to share, I will be updating this website approx. once a month.
 
 ![image](/Lazy.gif)
 
@@ -28,5 +29,5 @@ If you'd like to connect, please feel free to send me a connection request on [L
 ## Disclaimer
 The opinions expressed here represent my own and not those of my employer/associates/research group. The author is not to be held responsible for misuse, reuse, recycled and cited and/or uncited copies of content within this website by others.
 
-(c) Copyright Nishanth, Dec 2020; Last updated July 4 2023. 
+(c) Copyright Nishanth, Dec 2020; Last updated August 1 2024. 
 
