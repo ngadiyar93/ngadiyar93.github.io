@@ -1,5 +1,5 @@
 ## News
-- **Aug 2024:** Nishanth is soon moving to the [Oak Ridge National Laboratory](https://www.ornl.gov/) as a Distinguished Staff Fellow.
+- **Oct 2024:** Nishanth has moved to the [Oak Ridge National Laboratory](https://www.ornl.gov/) as a Distinguished Staff Fellow.
 - **Feb 2024:** Nishanth is the Publicity Chair for the [2025 IEEE International Electric Machines and Drives Conference (IEMDC)](https://www.iemdc.org/organizing-committee/). 
 - **Dec 2023:** Nishanth is the Young Professional Activities Chair for the [2024 IEEE Transportation Electrification Conference](https://itec-conf.com/conference/committees/). 
 - **Aug 2023:** Nishanth joined GE Research, a distinguished industrial research organization in Niskayuna, NY as a Research Engineer. Read more about GE Research [here](https://en.wikipedia.org/wiki/General_Electric_Research_Laboratory).
