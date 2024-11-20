@@ -8,7 +8,7 @@
 
 ## About me
 
-Hi there 👋, I am Nishanth, a researcher at GE Research in Niskayuna, NY. Previously I was a post-doctoral research associate at the [_University of Wisconsin-Madison_](https://www.wisc.edu/) where I worked with the world renowned [_Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)_](https://wempec.wisc.edu/)- one of the largest industry-academia consortium in the world. I was advised by [Prof. Eric Severson](https://severson.wempec.wisc.edu/) and fortunate to be part of a young and dynamic research group that works on cool, niche (and weird) electric machines. Prior to starting as a post-doc, I obtained my Ph.D. from WEMPEC in February 2023.
+Hi there 👋, I am Nishanth, a distinguished staff fellow with the Oak Ridge National Laboratory. Previously I was a Research Engineer at GE Research and a post-doctoral research associate at the [_University of Wisconsin-Madison_](https://www.wisc.edu/) I  received my Ph.D. from the University of Wisconsin-Madison, where I worked with the world renowned [_Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)_](https://wempec.wisc.edu/)- one of the largest industry-academia consortium in the world. I was advised by [Prof. Eric Severson](https://elev.umn.edu/) and fortunate to be part of a young and dynamic research group that works on cool, niche (and weird) electric machines.
 
 My work at WEMPEC focused on **_design and optimization of electric machines, power electronics, and control_**. Since joining WEMPEC in the Fall of 2018, I worked on design and optimization of power dense **_axial flux machines_** to electrify off-highway vehicles (excavators, tractors etc).
 
