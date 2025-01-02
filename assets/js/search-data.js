@@ -513,21 +513,14 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0003-4826-7524", "_blank");
+          window.open("https://orcid.org/0000-0003-4826-7524", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Fnu-Nishanth?__cf_chl_tk=kHYz1gWbD0AaqXG8OwfNUMEsHoTkFdPWb1OUqrFkv8s-1735852060-1.0.1.1-mGEyV0J2CtnOsCwnBQqnWgxl.sIn9iHIBTQcC658s0w/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.researchgate.net/profile/Fnu-Nishanth/", "_blank");
         },
       },{
         id: 'social-scholar',
