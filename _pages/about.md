@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Sustainable Electro-Mechanical Systems Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    Distinguished Staff Fellow and Electric Machinery Researcher,
+    Oak Ridge National Laboratory,
+    Oak Ridge, TN
+    e-mail: nishanth [at] ieee [dot] org
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there 👋, I am Nishanth, an Alvin M. Weinberg distinguished staff fellow with the Oak Ridge National Laboratory (ORNL).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to joining ORNL, I worked as a Research Engineer at GE Research and a post-doctoral research associate at the University of Wisconsin-Madison. I received my Ph.D. from the University of Wisconsin-Madison, where I worked with the world renowned Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)- one of the largest industry-academia consortium in the world. I was advised by [Prof. Eric Severson](https://elev.umn.edu/) and was part of a young and dynamic research group that works on cool, niche (and weird) electric machines and electro-mechanical systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work at WEMPEC focused on the design, analysis, and optimization of electro-mechanical energy conversion systems, encompassing sub-domains of electric machines, power electronics, and control, with applications to off-highway vehicle electrification.
