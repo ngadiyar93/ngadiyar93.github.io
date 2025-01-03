@@ -2,7 +2,7 @@
 layout: page
 title: Multi-harmonic Electric Machines
 description: Technique to unlock additional degrees of freedom in e-Machines
-img: assets/img/Multi-harmonicProject/MethodSummary.png
+img: assets/img/Multi-harmonicProject/travelingwave.gif
 redirect: https://youtu.be/HsG67Q7Vk9w?si=3n1iujlCflercqqW
 importance: 3
 category: work
