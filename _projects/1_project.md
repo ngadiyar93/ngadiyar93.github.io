@@ -1,39 +1,30 @@
 ---
 layout: page
 title: Integrated Electro-hydraulic Machine
-description: with background image
+description: Off-highway Vehicle Electrification
 img: assets/img/HECM_img.PNG
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project was a major part of my Ph.D. research, and aimed to electrify off-highway vehicles using the Hybrid Hydraulic-Electric Architecture, proposed by [Prof. Perry Li](https://cse.umn.edu/me/perry-li)'s team at the University of Minnesota. This work was funded by the U.S. Department of Energy's Vehicle Technologies Office. My work on this project involved developing the integrated electro-hydraulic machine rated at 20kW with efficiency> 85%, power-density >5kW/kg, and cost <$20/kW. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I was mentored by my advisor Prof. Eric Severson and worked closely with the hydraulics team mentored by [Prof. Jim van de Ven]() and [Prof. Perry Li](https://cse.umn.edu/me/perry-li) to come up with an initial design that used the axial flux machine and a radial piston pump. I then developed a multi-physics optimization framework to optimize the electro-magnetic, thermal, and hydraulic aspects of the design to meetthe performance metrics. We identified a design that meets the performance requirements, and performed a detailed analysis. Finally a prototype was designed based on the selected design, fabricated, and experimentally characterized.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/HHEA_Architecture.PNG" title="HHEAArchitecture" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/HECM_img.PNG" title="ProposedHECM" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/HECMPrototype.PNG" title="HECMPrototype" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left, HHEA architecture. Middle, Proposed integrated electro-hydraulic machine. Right, Fabricated prototype.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
