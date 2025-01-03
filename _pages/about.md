@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Alvin M. Weinberg Distinguished Staff Fellow @ ORNL
 
