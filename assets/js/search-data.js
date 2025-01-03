@@ -397,8 +397,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-development-of-solid-synchronous-reluctance-rotors-with-multi-material-additive-manufacturing-is-accepted-for-publication-in-the-ieee-transactions-on-industry-applications-and-available-on-ieee-xplore",
-          title: 'Our paper Development of Solid Synchronous Reluctance Rotors With Multi-Material Additive Manufacturing is...',
+            },},{id: "news-new-ldrd-funding-to-develop-sustainable-multi-harmonic-electric-machines",
+          title: 'New LDRD funding to develop sustainable multi-harmonic electric machines.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
