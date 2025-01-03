@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Development of Solid Synchronous Reluctance Rotors With Multi-Material Additive Manufacturing](https://ieeexplore.ieee.org/document/10816056) is accepted in the IEEE Transactions on Industry Applications and available on IEEE Xplore.
+Our paper [Development of Solid Synchronous Reluctance Rotors With Multi-Material Additive Manufacturing](https://ieeexplore.ieee.org/document/10816056) is accepted for publication in the IEEE Transactions on Industry Applications and available on IEEE Xplore.
