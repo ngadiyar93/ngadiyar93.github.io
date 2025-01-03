@@ -416,7 +416,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-integrated-electro-hydraulic-machine",
           title: 'Integrated Electro-hydraulic Machine',
-          description: "with background image",
+          description: "Off-highway Vehicle Electrification",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
