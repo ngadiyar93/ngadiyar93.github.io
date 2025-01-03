@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: This page features some of my projects that can be publicly shared. The links point to YouTube videos of my presentation on these projects.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
