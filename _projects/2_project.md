@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: 3D Printed Axial flux machine stator with Eddy-current limiting geometry
+description: Additive manufacturing for high-performance e-machines
+img: assets/img/AMProject/AMStator.PNG
 importance: 2
+redirect: https://youtu.be/tvbcaHdHSx0?si=MxaawNi-y4y2ariM
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
