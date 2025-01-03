@@ -2,7 +2,7 @@
 layout: page
 title: 3D printed axial flux stator
 description: 3D printed e-machines with eddy-current limiting features
-img: assets/img/AMProject/AMStator.PNG
+img: assets/img/AMProject/AMStator.png
 importance: 2
 redirect: https://youtu.be/tvbcaHdHSx0?si=MxaawNi-y4y2ariM
 category: work
