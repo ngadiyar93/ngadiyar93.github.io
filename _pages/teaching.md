@@ -2,15 +2,17 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 6
 ---
+**At the GE Research center**
+  - **Electric Machines A-course_** 
 
 **At the University of Wisconsin-Madison**
   - **_ECE 713: Electromagnetic Design of AC Machines_** 
   - A flagship graduate level WEMEPC course that teaches the electromagnetic design of rotating machines from first principles.
-  - Responsibilities: Mentoring students in an active learning class; Preparing solution sets to in-class exercises, exams, homeworks and projects; Teaching class sessions on FEA analysis; Grading; Conducting office hours to clarify student queries. 
+  - Responsibilities: Mentoring students in an active learning class; Preparing in-class exercises, exams, homeworks and projects; Teaching class sessions on FEA analysis; Grading; Conducting office hours to clarify student queries. 
 
   - **_ECE 412: Power Electronic Circuits_** 
   - A graduate level WEMEPC Course
