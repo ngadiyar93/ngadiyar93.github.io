@@ -20,5 +20,6 @@ Prior to joining ORNL in October 2024, I worked as a Research Engineer at GE Res
 
 I received my Ph.D. from the University of Wisconsin-Madison, where I worked with the world-renowned [Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)](https://wempec.wisc.edu/), and was advised by [Prof. Eric Severson](https://elev.umn.edu/).
 
-My current research focuses on developing **sustainable electro-mechanical energy conversion and motion control systems**. My work is at the intersection of the traditional areas of **electric machines, power-electronics and motion-control**, and I frequently collaborate with mechanical engineers, materials scientists, and AI / machine learning experts. 
+My current research focuses on developing **sustainable electro-mechanical energy conversion and motion control systems**. My work is at the intersection of the traditional areas of **electric machines, power-electronics and motion-control**. I frequently collaborate with mechanical engineers, materials scientists, and AI / machine learning experts.
+
 My research finds applications in **precise motion control equipment** for semiconductor fabs, **electric vehicles and industrial equipment**, and **aerospace propulsion and wind energy** generation. 
