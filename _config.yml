@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Nishanth
-first_name: Nishanth
+title: #
+first_name: FNU
 middle_name:
-last_name: (FNU Nishanth / Nishanth Gadiyar)
+last_name: Nishanth
 email: nishanth@ieee.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
  FNU Nishanth's personal website. Based on [*folio](https://github.com/bogoli/-folio) design.
