@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Public repositories with Nishanths contributions.",
+          description: "Public repositories with Nishanth&#39;s contributions.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
