@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 **At the GE Research center**
-  - **Electric Machines A-course_** 
+  - **Electric Machines A-course for Edison Engineers** 
 
 **At the University of Wisconsin-Madison**
   - **_ECE 713: Electromagnetic Design of AC Machines_** 
