@@ -7,11 +7,15 @@ nav: true
 nav_order: 6
 ---
 ## At the GE Research center
-  - **Electric Machines A-course for Edison Engineers** 
+  - **Electric Machines A-course for Edison Engineers**
+  - An intermediate level course that teaches the fundamental principles behind rotating electric machines to Edison Engineers.
+  - Edison Engineers are early-career employees at GE Research that join with a Master's degree in a STEM field (not all are Electrical Engineers). 
+  - Responsibilities: preparing course materials, teaching the course, creating assessments, and grading.  
 
-## At the University of Wisconsin-Madison**
+
+## At the University of Wisconsin-Madison
   - **ECE 713: Electromagnetic Design of AC Machines** 
-  - A flagship graduate level WEMEPC course that teaches the electromagnetic design of rotating machines from first principles.
+  - A advanced graduate level WEMEPC course that teaches the electromagnetic design of rotating machines from first principles.
   - Responsibilities: Mentoring students in an active learning class; Preparing in-class exercises, exams, homeworks and projects; Teaching class sessions on FEA analysis; Grading; Conducting office hours to clarify student queries. 
 
   - **ECE 412: Power Electronic Circuits** 
@@ -24,6 +28,7 @@ nav_order: 6
 
   - **ECE 210: Introductory Experience in ECE**
   - Responsibilities: Teaching and mentoring freshmen in a basic electrical engineering lab. Skills taught include circuit connections, soldering, programming an MCU and interfacing with peripherals such as an LCD touch screen, joystick etc. 
+
 
 ## At the Indian Institute of Technology-Madras
   - **Data Structures and Algorithms**
