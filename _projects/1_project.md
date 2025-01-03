@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Integrated Electro-hydraulic Machine
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/HECM_img.PNG
 importance: 1
 category: work
 related_publications: true
