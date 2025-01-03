@@ -4,6 +4,7 @@ title: Integrated Electro-hydraulic Machine
 description: Off-highway Vehicle Electrification
 img: assets/img/HECM_img.PNG
 importance: 1
+redirect: https://youtu.be/HsG67Q7Vk9w?si=GvQGCBlSzEmivL2g
 category: work
 related_publications: true
 ---
