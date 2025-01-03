@@ -423,7 +423,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-integrated-electro-hydraulic-machine",
           title: 'Integrated Electro-hydraulic Machine',
-          description: "Off-highway Vehicle Electrification",
+          description: "Off-highway Vehicle Electrification - 20 ton excavator bucket.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-3d-printed-axial-flux-stator",
