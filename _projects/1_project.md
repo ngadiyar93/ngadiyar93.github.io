@@ -4,14 +4,13 @@ title: Integrated Electro-hydraulic Machine
 description: Off-highway Vehicle Electrification
 img: assets/img/HECM_img.PNG
 importance: 1
-redirect: https://youtu.be/HsG67Q7Vk9w?si=GvQGCBlSzEmivL2g
+redirect: https://youtu.be/4FHHYSYhGW8?si=cnLRlqBcIyONLNoU
 category: work
-related_publications: true
 ---
 
-This project was a major part of my Ph.D. research, and aimed to electrify off-highway vehicles using the Hybrid Hydraulic-Electric Architecture, proposed by [Prof. Perry Li](https://cse.umn.edu/me/perry-li)'s team at the University of Minnesota. This work was funded by the U.S. Department of Energy's Vehicle Technologies Office. My work on this project involved developing the integrated electro-hydraulic machine rated at 20kW with efficiency> 85%, power-density >5kW/kg, and cost <$20/kW. 
+#This project was a major part of my Ph.D. research, and aimed to electrify off-highway vehicles using the Hybrid Hydraulic-Electric Architecture, proposed by [Prof. Perry Li](https://cse.umn.edu/me/perry-li)'s team at the University of Minnesota. This work was funded by the U.S. Department of Energy's Vehicle Technologies Office. My work on this project involved developing the integrated electro-hydraulic machine rated at 20kW with efficiency> #85%, power-density >5kW/kg, and cost <$20/kW. 
 
-I was mentored by my advisor Prof. Eric Severson and worked closely with the hydraulics team mentored by [Prof. Jim van de Ven]() and [Prof. Perry Li](https://cse.umn.edu/me/perry-li) to come up with an initial design that used the axial flux machine and a radial piston pump. I then developed a multi-physics optimization framework to optimize the electro-magnetic, thermal, and hydraulic aspects of the design to meetthe performance metrics. We identified a design that meets the performance requirements, and performed a detailed analysis. Finally a prototype was designed based on the selected design, fabricated, and experimentally characterized.  
+#I was mentored by my advisor Prof. Eric Severson and worked closely with the hydraulics team mentored by [Prof. Jim van de Ven]() and [Prof. Perry Li](https://cse.umn.edu/me/perry-li) to come up with an initial design that used the axial flux machine and a radial piston pump. I then developed a multi-physics optimization framework to optimize the electro-magnetic, thermal, and hydraulic aspects of the design to meetthe performance metrics. We #identified a design that meets the performance requirements, and performed a detailed analysis. Finally a prototype was designed based on the selected design, fabricated, and experimentally characterized.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
