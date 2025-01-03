@@ -389,7 +389,10 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-nishanth-is-serving-as-the-short-courses-and-tutorials-chair-and-track-chair-at-ieee-itec-eats-2025",
+    },{id: "news-nishanth-is-serving-as-the-publicity-chair-and-a-track-chair-at-ieee-iemdc-2025",
+          title: 'Nishanth is serving as the publicity chair and a track chair at IEEE...',
+          description: "",
+          section: "News",},{id: "news-nishanth-is-serving-as-the-short-courses-and-tutorials-chair-and-track-chair-at-ieee-itec-eats-2025",
           title: 'Nishanth is serving as the short courses and tutorials chair and track chair...',
           description: "",
           section: "News",},{id: "news-nishanth-joins-the-oak-ridge-national-laboratory-as-a-distinguished-staff-fellow",
