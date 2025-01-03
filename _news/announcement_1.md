@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-01-02 20:33:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper [Development of Solid Synchronous Reluctance Rotors With Multi-Material Additive Manufacturing](https://ieeexplore.ieee.org/document/10816056) is accepted in the IEEE Transactions on Industry Applications and available on IEEE Xplore.
