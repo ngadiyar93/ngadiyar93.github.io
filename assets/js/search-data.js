@@ -414,8 +414,8 @@ ninja.data = [{
             },},{id: "news-new-ldrd-funding-to-develop-sustainable-multi-harmonic-electric-machines",
           title: 'New LDRD funding to develop sustainable multi-harmonic electric machines.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-integrated-electro-hydraulic-machine",
+          title: 'Integrated Electro-hydraulic Machine',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
