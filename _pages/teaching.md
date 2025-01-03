@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 ## At the GE Research center
   - **Electric Machines A-course for Edison Engineers**
