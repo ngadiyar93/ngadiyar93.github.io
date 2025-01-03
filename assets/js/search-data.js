@@ -426,9 +426,9 @@ ninja.data = [{
           description: "Off-highway Vehicle Electrification",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-3d-printed-axial-flux-machine-stator-with-eddy-current-limiting-geometry",
+          title: '3D Printed Axial flux machine stator with Eddy-current limiting geometry',
+          description: "Additive manufacturing for high-performance e-machines",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-multi-harmonic-electric-machines",
