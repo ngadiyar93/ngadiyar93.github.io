@@ -389,15 +389,15 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-development-of-solid-synchronous-reluctance-rotors-with-multi-material-additive-manufacturing-is-accepted-for-publication-in-the-ieee-transactions-on-industry-applications-and-available-on-ieee-xplore",
+            },},{id: "news-our-paper-development-of-solid-synchronous-reluctance-rotors-with-multi-material-additive-manufacturing-is-accepted-for-publication-in-the-ieee-transactions-on-industry-applications-and-available-on-ieee-xplore",
           title: 'Our paper Development of Solid Synchronous Reluctance Rotors With Multi-Material Additive Manufacturing is...',
           description: "",
           section: "News",},{id: "projects-project-1",
