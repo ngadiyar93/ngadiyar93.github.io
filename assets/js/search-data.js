@@ -426,9 +426,9 @@ ninja.data = [{
           description: "Off-highway Vehicle Electrification",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-3d-printed-axial-flux-machine-stator-with-eddy-current-limiting-geometry",
-          title: '3D Printed Axial flux machine stator with Eddy-current limiting geometry',
-          description: "Additive manufacturing for high-performance e-machines",
+            },},{id: "projects-3d-printed-axial-flux-stator",
+          title: '3D printed axial flux stator',
+          description: "3D printed e-machines with eddy-current limiting features",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-multi-harmonic-electric-machines",
