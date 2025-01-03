@@ -389,7 +389,10 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-nishanth-joins-the-oak-ridge-national-laboratory-as-a-distinguished-staff-fellow",
+    },{id: "news-nishanth-is-serving-as-the-short-courses-and-tutorials-chair-and-track-chair-at-ieee-itec-eats-2025",
+          title: 'Nishanth is serving as the short courses and tutorials chair and track chair...',
+          description: "",
+          section: "News",},{id: "news-nishanth-joins-the-oak-ridge-national-laboratory-as-a-distinguished-staff-fellow",
           title: 'Nishanth joins the Oak Ridge National Laboratory as a Distinguished Staff Fellow.',
           description: "",
           section: "News",handler: () => {
