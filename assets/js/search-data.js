@@ -389,8 +389,8 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-nishanth-has-been-selected-for-the-fy25-cohort-of-the-prestigious-early-career-development-program-at-ornl",
+          title: 'Nishanth has been selected for the FY25 cohort of the prestigious early-career development...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
