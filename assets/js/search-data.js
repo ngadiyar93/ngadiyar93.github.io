@@ -392,8 +392,8 @@ ninja.data = [{
     },{id: "news-nishanth-has-been-selected-for-the-fy25-cohort-of-the-prestigious-early-career-development-program-at-ornl",
           title: 'Nishanth has been selected for the FY25 cohort of the prestigious early-career development...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-new-paper-on-multi-material-am-enabled-high-speed-synr-machine-in-the-ieee-transactions-on-industry-applications-click-to-learn-more",
+          title: 'New paper on Multi-material AM-enabled high-speed SynR machine in the IEEE Transactions on...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
