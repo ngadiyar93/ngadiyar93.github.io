@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Public repositories with Nishanths contributions.
+description: Public repositories with Nishanth's contributions.
 nav: true
 nav_order: 4
 ---
