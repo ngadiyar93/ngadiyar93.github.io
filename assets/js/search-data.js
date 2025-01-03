@@ -389,7 +389,12 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-nishanth-has-been-selected-for-the-fy25-cohort-of-the-prestigious-early-career-development-program-at-ornl",
+    },{id: "news-nishanth-joins-the-oak-ridge-national-laboratory-as-a-distinguished-staff-fellow",
+          title: 'Nishanth joins the Oak Ridge National Laboratory as a Distinguished Staff Fellow.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement4/";
+            },},{id: "news-nishanth-has-been-selected-for-the-fy25-cohort-of-the-prestigious-early-career-development-program-at-ornl",
           title: 'Nishanth has been selected for the FY25 cohort of the prestigious early-career development...',
           description: "",
           section: "News",},{id: "news-new-paper-on-multi-material-am-enabled-high-speed-synr-machine-in-the-ieee-transactions-on-industry-applications-click-to-learn-more",
