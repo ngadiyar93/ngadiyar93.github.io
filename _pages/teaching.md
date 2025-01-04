@@ -14,11 +14,11 @@ nav_order: 5
 
 
 ## At the University of Wisconsin-Madison
-  - **ECE 713: Electromagnetic Design of AC Machines** 
+  - **ECE 713: Electromagnetic Design of AC Machines** (Videos from Prof. Severson available [here](https://www.youtube.com/watch?v=ooBoTrONwCE&list=PLOsHXWYsyqDUraHJP_uUDSjMLPFoJtz4q))
     - A advanced graduate level WEMEPC course that teaches the electromagnetic design of rotating machines from first principles.
     - Responsibilities: Mentoring students in an active learning class; Preparing in-class exercises, exams, homeworks and projects; Teaching class sessions on FEA analysis; Grading; Conducting office hours to clarify student queries. 
 
-  - **ECE 412: Power Electronic Circuits** 
+  - **ECE 412: Power Electronic Circuits** (Videos from Prof. Severson available [here](https://www.youtube.com/watch?v=ovhbvj1-Tw0&list=PLOsHXWYsyqDV_Ig93h55ZLheLviofCyw4))
     - A graduate level WEMEPC Course
     - Responsibilities: Mentoring students in an active learning class; Creating problem sets and preparing solutions to in-class exercises, exams, and homeworks; Grading exams; Conducting office hours to clarify student queries. 
 
