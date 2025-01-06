@@ -44,10 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-nishanth-has-joined-the-aerospace-electric-machines-laboratory-at-ge-research-in-niskayuna-ny",
-          title: 'Nishanth has joined the Aerospace Electric Machines Laboratory at GE Research in Niskayuna,...',
-          description: "",
-          section: "News",},{id: "news-nishanth-is-serving-as-the-publicity-chair-and-a-track-chair-at-ieee-iemdc-2025",
+        },{id: "news-nishanth-is-serving-as-the-publicity-chair-and-a-track-chair-at-ieee-iemdc-2025",
           title: 'Nishanth is serving as the publicity chair and a track chair at IEEE...',
           description: "",
           section: "News",},{id: "news-two-papers-published-in-the-ieee-transactions-on-industry-applications-march-april-2024-issue-f-nishanth-j-van-de-ven-and-e-l-severson-evaluation-of-torque-dense-electric-machine-technology-for-off-highway-vehicle-electrification-in-ieee-transactions-on-industry-applications-vol-60-no-2-pp-3062-3074-march-april-2024-f-nishanth-a-khamitov-and-e-l-severson-design-of-electric-machine-windings-to-independently-control-multiple-airgap-harmonics-in-ieee-transactions-on-industry-applications-vol-60-no-2-pp-3039-3050-march-april-2024",
