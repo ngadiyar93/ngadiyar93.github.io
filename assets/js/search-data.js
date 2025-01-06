@@ -72,10 +72,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-new-ldrd-funding-to-develop-sustainable-multi-harmonic-electric-machines",
-          title: 'New LDRD funding to develop sustainable multi-harmonic electric machines.',
+            },},{id: "news-new-ldrd-funding-us-700k-to-develop-sustainable-multi-harmonic-electric-machines",
+          title: 'New LDRD funding (~US$ 700k) to develop sustainable multi-harmonic electric machines.',
           description: "",
-          section: "News",},{id: "projects-integrated-electro-hydraulic-machine",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-integrated-electro-hydraulic-machine",
           title: 'Integrated Electro-hydraulic Machine',
           description: "Off-highway Vehicle Electrification - 20 ton excavator bucket.",
           section: "Projects",handler: () => {
