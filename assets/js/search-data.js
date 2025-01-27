@@ -77,6 +77,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-three-manuscripts-accepted-at-ieee-iemdc-2025",
+          title: 'Three manuscripts accepted at IEEE IEMDC 2025.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement11/";
             },},{id: "projects-integrated-electro-hydraulic-machine",
           title: 'Integrated Electro-hydraulic Machine',
           description: "Off-highway Vehicle Electrification - 20 ton excavator bucket.",
