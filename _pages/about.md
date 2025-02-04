@@ -15,7 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi there, I am Nishanth, a member of the R&D staff at the [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/staff-profile/fnu-nishanth). I also hold the Alvin M. Weinberg [distinguished staff fellowship](https://www.ornl.gov/careers/distinguished-fellowships). 
+Hi there, I am Nishanth Gadiyar, a member of the R&D staff at the [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/staff-profile/fnu-nishanth). I also hold the Alvin M. Weinberg [distinguished staff fellowship](https://www.ornl.gov/careers/distinguished-fellowships). 
+Until deciding to use my parents last name in Feb 2025, I used the name FNU Nishanth since I had just one name (FNU -- First Name Unknown).
 
 Before joining ORNL in October 2024, I worked as a Research Engineer at GE Research, a post-doctoral research associate at the University of Wisconsin-Madison, and a research intern at the Mitsubishi Electric Research Laboratories. 
 
