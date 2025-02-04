@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Big Change: FNU Nishanth is now Nishanth Gadiyar...Finally!
+title: Major Update..FNU Nishanth is now Nishanth Gadiyar
 date: 2025-02-03
 inline: false
 related_posts: false
