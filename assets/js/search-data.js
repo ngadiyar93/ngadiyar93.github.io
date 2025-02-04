@@ -44,7 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-nishanth-has-successfully-defended-his-ph-d-the-degree-will-be-conferred-at-uw-madison-s-may-2023-commencement-nishanth-will-be-continuing-as-a-post-doctoral-research-associate-with-prof-severson-at-wempec",
+        },{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/Announcement_12/";
+            },},{id: "news-nishanth-has-successfully-defended-his-ph-d-the-degree-will-be-conferred-at-uw-madison-s-may-2023-commencement-nishanth-will-be-continuing-as-a-post-doctoral-research-associate-with-prof-severson-at-wempec",
           title: 'Nishanth has successfully defended his Ph.D. The degree will be conferred at UW-Madison’s...',
           description: "",
           section: "News",},{id: "news-nishanth-has-joined-the-aerospace-electric-machines-laboratory-at-ge-research-in-niskayuna-ny",
