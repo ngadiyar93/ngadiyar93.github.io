@@ -44,12 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-",
-          title: '',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/Announcement_12/";
-            },},{id: "news-nishanth-has-successfully-defended-his-ph-d-the-degree-will-be-conferred-at-uw-madison-s-may-2023-commencement-nishanth-will-be-continuing-as-a-post-doctoral-research-associate-with-prof-severson-at-wempec",
+        },{id: "news-nishanth-has-successfully-defended-his-ph-d-the-degree-will-be-conferred-at-uw-madison-s-may-2023-commencement-nishanth-will-be-continuing-as-a-post-doctoral-research-associate-with-prof-severson-at-wempec",
           title: 'Nishanth has successfully defended his Ph.D. The degree will be conferred at UW-Madison’s...',
           description: "",
           section: "News",},{id: "news-nishanth-has-joined-the-aerospace-electric-machines-laboratory-at-ge-research-in-niskayuna-ny",
@@ -87,6 +82,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement11/";
+            },},{id: "news-major-update-fnu-nishanth-is-now-nishanth-gadiyar",
+          title: 'Major Update..FNU Nishanth is now Nishanth Gadiyar',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/Announcement_12/";
             },},{id: "projects-integrated-electro-hydraulic-machine",
           title: 'Integrated Electro-hydraulic Machine',
           description: "Off-highway Vehicle Electrification - 20 ton excavator bucket.",
