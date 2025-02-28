@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi there, I am Nishanth Gadiyar, a member of the R&D staff at the [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/staff-profile/fnu-nishanth). I also hold the Alvin M. Weinberg [distinguished staff fellowship](https://www.ornl.gov/careers/distinguished-fellowships). I was previously known as FNU Nishanth. [Read about it here]()
+Hi there, I am Nishanth Gadiyar, a member of the R&D staff at the [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/staff-profile/fnu-nishanth). I also hold the Alvin M. Weinberg [distinguished staff fellowship](https://www.ornl.gov/careers/distinguished-fellowships).
 
 Prior to joining ORNL in October 2024, I worked as a Research Engineer at General Electric (GE) Research, a post-doctoral research associate at the University of Wisconsin-Madison, and a research intern at the Mitsubishi Electric Research Laboratories. 
 
@@ -28,3 +28,5 @@ Areas of application for my research include, *electrified transportation and of
 I received my Ph.D. from the University of Wisconsin-Madison, where I was advised by [Prof. Eric Severson](https://elev.umn.edu/) and worked with the world-renowned [Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC)](https://wempec.wisc.edu/). A redacted version of my Ph.D. dissertation can be found [here](https://www.researchgate.net/publication/380099454_An_Investigation_of_Power_Dense_Axial_Flux_Electric_Machines_to_Electrify_Off-Highway_Vehicles_Chapters_1_-_7).
 
 In addition to solving complex problems through research, I am deeply interested and committed to engineering education and outreach. STEM outreach is an important topic for me, especially in the context of diversity, equity, and inclusion. During my PhD, I engaged in STEM outreach through my research group and the Wisconsin 4-H program. I am eager to continue these efforts to help address systemic barriers and promote equitable access to STEM fields.
+
+*Note:* Until I decided to use my parents' last name in February 2025 and applied for an official name change, I had only one name "Nishanth" and was known as FNU Nishanth (mostly) or Nishanth NLN (at ORNL). [Read more about the FNU issue here](https://viveksinghblog.medium.com/change-my-name-remove-fnu-9bb5687e44c). 
