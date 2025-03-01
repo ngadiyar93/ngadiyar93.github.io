@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-miscellaneous",
-          title: "Miscellaneous",
-          description: "This page has miscellaneous information about me.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/misc/";
-          },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "Public repositories with Nishanth&#39;s contributions.",
