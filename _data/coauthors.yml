@@ -1,5 +1,5 @@
 "severson":
-  - firstname: ["Eric", "E.", "E. L."]
+  - firstname: ["Eric", "E.", "E. L.", "Eric L.", "Eric L"]
     url: https://cse.umn.edu/me/eric-severson
 
 "todd":
@@ -11,12 +11,9 @@
     url: https://cse.umn.edu/me/james-van-de-ven
 
 "pfefferkorn":
-  - firstname: ["Frank", "F. E."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+  - firstname: ["Frank", "F. E.", "Frank E"]
     url: https://directory.engr.wisc.edu/me/faculty/pfefferkorn_frank/
 
 "thoma":
-  - firstname: ["Dan", "D."]
+  - firstname: ["Dan", "D. J.", "Dan J"]
     url: https://directory.engr.wisc.edu/mse/Faculty/Thoma_Dan/
