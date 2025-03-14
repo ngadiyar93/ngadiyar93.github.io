@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Nishanth Gadiyar; (previously known as FNU Nishanth / . Nishanth)
+      value: Nishanth Gadiyar
     - name: Languages
-      value: English (full professional proficiency), Kannada (native speaker), Konkani (native speaker), Hindi (intermediate proficiency), Telugu (elementary proficiency), Sanskrit (elementary proficiency), Tamil (elementary proficiency).
+      value: English, Kannada, Konkani, Hindi, Telugu (basic), Sanskrit (basic), Tamil (basic).
 
 - title: Education
   type: time_table
