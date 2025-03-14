@@ -82,8 +82,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement11/";
-            },},{id: "news-major-update-fnu-nishanth-is-now-nishanth-gadiyar",
-          title: 'Major Update..FNU Nishanth is now Nishanth Gadiyar',
+            },},{id: "news-re-branding-fnu-nishanth-is-nishanth-gadiyar",
+          title: 'Re-branding...FNU Nishanth is Nishanth Gadiyar',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Announcement_12/";
