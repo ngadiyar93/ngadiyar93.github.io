@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Major Update..FNU Nishanth is now Nishanth Gadiyar
+title: Re-branding...FNU Nishanth is Nishanth Gadiyar
 date: 2025-02-03
 inline: false
 related_posts: false
 ---
 
-I have just one name Nishanth, which works fine in my birth country India, but causes issues in the western world where a first and a last name are expected.
+I have always gone by just one name: Nishanth, which has been sufficient in my home country, India, where most official documents have a single "Name" field, rather than distinct fields for First, Middle, and Last names. However, this single-name structure creates challenges in the western world, where forms typically require both a first and a last name.
 
-My US Student Visa in 2018 renamed me as "FNU Nishanth" where FNU is the USCIS's abbreviation for First Name Unknown (The U.S. likes having a last name, hence this formatting).
+When I received my F1 Student Visa in 2018, the U.S. Consulate issued my name as "FNU Nishanth," with FNU standing for "First Name Unknown." The abbreviation often auto-corrected to "FUN," which, I must admit, was the only unintended perk of the situation!
 
-Fast forward to 2025, my employer re-christened me as Nishanth NLN -- they belive that's how people like me with a single name must be named. 
+Fast forward to 2025, and various agencies have addressed me (per their policy) as "FNU Nishanth," "Unknown Nishanth," "No Given Name Nishanth," "Nishanth NLN," and "Nishanth LNU," causing considerable confusion and, at times, prompting others to refer to me as "Fnu," "Unknown," and so on.
 
-Tired with all the 3-letter abbreviations, I've decided to adopt my parents' last name and here I am, Nishanth Gadiyar on all social media and publications.
+To put an end to this ongoing conundrum, I have decided to adopt my parents' last name and have officially changed my name to Nishanth Gadiyar as of March 2025.
 
-I've asked IEEE to update my publications, and I am working with the consulate and the county court to change my name officially. Eagerly looking forward to the day I "officially" become Nishanth Gadiyar!
+I've asked IEEE to update my publications, and I am working with different agencies to get the legal name changed / updated. Eagerly looking forward to the day I become Nishanth Gadiyar on all my paperwork!
