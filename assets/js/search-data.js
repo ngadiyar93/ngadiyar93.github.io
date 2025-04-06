@@ -77,11 +77,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-three-manuscripts-accepted-at-ieee-iemdc-2025",
-          title: 'Three manuscripts accepted at IEEE IEMDC 2025.',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement11/";
             },},{id: "news-re-branding-fnu-nishanth-is-nishanth-gadiyar",
           title: 'Re-branding...FNU Nishanth is Nishanth Gadiyar',
           description: "",
