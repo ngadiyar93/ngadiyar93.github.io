@@ -82,6 +82,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Announcement_12/";
+            },},{id: "news-organizing-a-special-session-at-iemdc-2025",
+          title: 'Organizing a special session at IEMDC 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_13/";
             },},{id: "projects-integrated-electro-hydraulic-machine",
           title: 'Integrated Electro-hydraulic Machine',
           description: "Off-highway Vehicle Electrification - 20 ton excavator bucket.",
