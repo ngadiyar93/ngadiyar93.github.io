@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Nishanth has been appointed as an Associate Editor for the IEEE Transactions on Transportation Electrification.
+Nishanth has been appointed as an Associate Editor for the [IEEE Transactions on Transportation Electrification](https://www.ieee-pels.org/publications/transactions-on-transportation-electrification/).
