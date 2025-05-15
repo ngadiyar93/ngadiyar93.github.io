@@ -90,7 +90,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_13/";
-            },},{id: "projects-integrated-electro-hydraulic-machine",
+            },},{id: "news-nishanth-has-been-appointed-as-an-associate-editor-for-the-ieee-transactions-on-industry-applications",
+          title: 'Nishanth has been appointed as an Associate Editor for the IEEE Transactions on...',
+          description: "",
+          section: "News",},{id: "projects-integrated-electro-hydraulic-machine",
           title: 'Integrated Electro-hydraulic Machine',
           description: "Off-highway Vehicle Electrification - 20 ton excavator bucket.",
           section: "Projects",handler: () => {
