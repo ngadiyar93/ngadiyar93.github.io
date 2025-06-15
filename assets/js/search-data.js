@@ -93,9 +93,9 @@ ninja.data = [{
             },},{id: "news-nishanth-has-been-appointed-as-an-associate-editor-for-the-ieee-transactions-on-industry-applications",
           title: 'Nishanth has been appointed as an Associate Editor for the IEEE Transactions on...',
           description: "",
-          section: "News",},{id: "projects-integrated-electro-hydraulic-machine",
-          title: 'Integrated Electro-hydraulic Machine',
-          description: "Off-highway Vehicle Electrification - 20 ton excavator bucket.",
+          section: "News",},{id: "projects-integrated-electro-hydraulic-machine-for-off-highway-vehicle-electrification",
+          title: 'Integrated Electro-hydraulic Machine for Off-highway Vehicle Electrification',
+          description: "A key enabler to electrify off-highway vehicles and improve their energy efficiency.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-3d-printed-axial-flux-stator",
