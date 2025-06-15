@@ -98,14 +98,14 @@ ninja.data = [{
           description: "A key enabler to electrify off-highway vehicles and improve their energy efficiency.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-3d-printed-axial-flux-stator",
-          title: '3D printed axial flux stator',
-          description: "3D printed e-machines with eddy-current limiting features",
+            },},{id: "projects-novel-additively-manufactured-axial-flux-stator-with-eddy-current-limiting-features-and-high-silicon-steel",
+          title: 'Novel Additively Manufactured Axial-flux Stator with Eddy-current Limiting Features and High-silicon Steel',
+          description: "A key enabler to realize next-generation 3D printed electric machine components for high-performance machines.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-multi-harmonic-electric-machines",
-          title: 'Multi-harmonic Electric Machines',
-          description: "Technique to unlock additional degrees of freedom in e-Machines",
+            },},{id: "projects-novel-multi-harmonic-electric-machines",
+          title: 'Novel Multi-harmonic Electric Machines',
+          description: "Re-thinking electric machine design and control and unlocking additional degrees of freedom to achieve step increase in power-density, torque-density, speed capability, and reliability.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
