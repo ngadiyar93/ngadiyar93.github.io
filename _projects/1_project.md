@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Integrated Electro-hydraulic Machine
-description: Off-highway Vehicle Electrification - 20 ton excavator bucket.
+title: Integrated Electro-hydraulic Machine for Off-highway Vehicle Electrification
+description: A key enabler to electrify off-highway vehicles and improve their energy efficiency.
 img: assets/img/HECMProject/HECMSection.png
 importance: 1
 redirect: https://youtu.be/4FHHYSYhGW8?si=cnLRlqBcIyONLNoU
