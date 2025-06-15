@@ -103,9 +103,9 @@ ninja.data = [{
           description: "A key enabler to realize next-generation 3D printed electric machine components for high-performance machines.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-novel-multi-harmonic-electric-machines",
-          title: 'Novel Multi-harmonic Electric Machines',
-          description: "Re-thinking electric machine design and control and unlocking additional degrees of freedom to achieve step increase in power-density, torque-density, speed capability, and reliability.",
+            },},{id: "projects-multi-harmonic-electric-machines",
+          title: 'Multi-harmonic Electric Machines',
+          description: "Technique to unlock additional degrees of freedom in e-Machines",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
