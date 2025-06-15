@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Multi-harmonic Electric Machines
-description: Technique to unlock additional degrees of freedom in e-Machines
+title: Novel Multi-harmonic Electric Machines
+description: Re-thinking electric machine design and control and unlocking additional degrees of freedom to achieve step increase in power-density, torque-density, speed capability, and reliability.
 img: assets/img/Multi-harmonicProject/travelingwave.gif
 redirect: https://youtu.be/HsG67Q7Vk9w?si=3n1iujlCflercqqW
 importance: 3
