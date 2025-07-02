@@ -93,7 +93,12 @@ ninja.data = [{
             },},{id: "news-nishanth-has-been-appointed-as-an-associate-editor-for-the-ieee-transactions-on-industry-applications",
           title: 'Nishanth has been appointed as an Associate Editor for the IEEE Transactions on...',
           description: "",
-          section: "News",},{id: "projects-integrated-electro-hydraulic-machine-for-off-highway-vehicle-electrification",
+          section: "News",},{id: "news-nishanth-received-the-best-reviewer-award-from-ieee-ias-electric-machines-committee",
+          title: 'Nishanth received the Best Reviewer Award from IEEE IAS-Electric Machines Committee',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_16/";
+            },},{id: "projects-integrated-electro-hydraulic-machine-for-off-highway-vehicle-electrification",
           title: 'Integrated Electro-hydraulic Machine for Off-highway Vehicle Electrification',
           description: "A key enabler to electrify off-highway vehicles and improve their energy efficiency.",
           section: "Projects",handler: () => {
