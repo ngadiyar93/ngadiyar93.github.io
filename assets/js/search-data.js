@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-research",
+          title: "Research",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-projects",
           title: "Projects",
           description: "This page features some of my projects that can be publicly shared. The links point to YouTube videos of my presentation on these projects.",
           section: "Navigation",
@@ -30,19 +37,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "I am passionate about teaching and mentoring. This page lists the courses that I have taught / co-taught / assisted in teaching. I have also mentored several graduate and undergraduate students.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "Public repositories with Nishanth&#39;s contributions.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "I am passionate about teaching and mentoring. This page lists the courses that I have taught / co-taught / assisted in teaching. I have also mentored several graduate and undergraduate students.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "news-nishanth-has-successfully-defended-his-ph-d-the-degree-will-be-conferred-at-uw-madison-s-may-2023-commencement-nishanth-will-be-continuing-as-a-post-doctoral-research-associate-with-prof-severson-at-wempec",
           title: 'Nishanth has successfully defended his Ph.D. The degree will be conferred at UW-Madison’s...',
