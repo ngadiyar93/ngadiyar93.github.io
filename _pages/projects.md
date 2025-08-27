@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: This page features some of my projects that can be publicly shared. The links point to YouTube videos of my presentation on these projects.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
