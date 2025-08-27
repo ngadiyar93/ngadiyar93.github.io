@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: I am passionate about teaching and mentoring. This page lists the courses that I have taught / co-taught / assisted in teaching. I have also mentored several graduate and undergraduate students.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## At the GE Research center
