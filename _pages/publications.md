@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: This page lists most of my publications. For a current and comprehensive list, please visit my Google Scholar page.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <!-- _pages/publications.md -->
