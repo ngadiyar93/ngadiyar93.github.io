@@ -105,6 +105,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_16/";
+            },},{id: "news-paper-accepted-at-ieee-ecce-2025",
+          title: 'Paper accepted at IEEE ECCE 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_17/";
             },},{id: "projects-integrated-electro-hydraulic-machine-for-off-highway-vehicle-electrification",
           title: 'Integrated Electro-hydraulic Machine for Off-highway Vehicle Electrification',
           description: "A key enabler to electrify off-highway vehicles and improve their energy efficiency.",
