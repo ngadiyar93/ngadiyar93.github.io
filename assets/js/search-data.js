@@ -110,6 +110,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_17/";
+            },},{id: "news-tpec-2025-paper-and-nsf-travel-grant",
+          title: 'TPEC 2025 paper and NSF Travel Grant',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_19/";
             },},{id: "projects-integrated-electro-hydraulic-machine-for-off-highway-vehicle-electrification",
           title: 'Integrated Electro-hydraulic Machine for Off-highway Vehicle Electrification',
           description: "A key enabler to electrify off-highway vehicles and improve their energy efficiency.",
