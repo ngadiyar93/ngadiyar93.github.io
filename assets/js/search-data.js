@@ -110,6 +110,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_17/";
+            },},{id: "news-multiple-papers-accepted-at-ieee-itec-2026",
+          title: 'Multiple papers accepted at IEEE ITEC 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20/";
             },},{id: "news-tpec-2025-paper-and-nsf-travel-grant",
           title: 'TPEC 2025 paper and NSF Travel Grant',
           description: "",
