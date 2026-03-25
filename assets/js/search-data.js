@@ -115,11 +115,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20/";
-            },},{id: "news-tpec-2026-paper-and-nsf-travel-grant",
-          title: 'TPEC 2026 paper and NSF Travel Grant',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_19/";
             },},{id: "news-nishanth-elected-general-co-chair-for-iemdc-2029",
           title: 'Nishanth elected General co-Chair for IEMDC 2029',
           description: "",
