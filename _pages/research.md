@@ -13,14 +13,14 @@ These systems must be energy-efficient, precise, compact/power-dense, and highly
 Achieving these ambitious targets requires addressing several complex and often competing objectives: eliminating reliance on critical rare-earth materials, ensuring sustainable material choices, and enabling circular supply chains through critical material recovery and recycling. 
 These challenges cannot be solved in isolation and demand a **holistic, inter-disciplinary approach**.
 
-My research is rooted in this systems-level thinking. I work at the intersection of *electric machines, power electronics, and advanced physics-based control*, with a deep focus on multi-physics interactions and system-level integration and optimization.
+My research is rooted in this systems-level thinking. I work at the intersection of *electric machines, power electronics, and physics-based control*, with a deep focus on multi-physics interactions, system-level integration and optimization.
 
-I push the boundaries beyond today's state-of-the art by *unlocking additional degrees of freedom* in electric machines (using spatial harmonics), developing new multi-level power electronic drives, integrating cutting-edge methods from **multi-physics modeling, multi-objective and topology optimization, AI/machine learning, model-based systems engineering, and materials science**. 
+I push the boundaries beyond today's state-of-the art by *unlocking additional degrees of freedom* in electric machines (using spatial harmonics), developing custom power electronic drives and physics-based control methods, integrating cutting-edge design methods from multi-physics modeling, multi-objective and topology optimization, AI/machine learning, model-based systems engineering, and materials science. 
 This approach allows me to radically enhance the performance, efficiency, and sustainability of electro-mechanical systems to achieve improvements by orders of magnitude over current state-of-the-art solutions.
 
 ## Broader Impacts
-The outcomes of my research have far-reaching implications across sectors from **electric transportation, energy generation systems, mechatronic systems, aerospace, and robotics, to industrial drives and next-generation manufacturing**. 
-By minimizing dependence on rare-earth materials and enabling efficient design and recycling practices, my work directly contributes to **reducing environmental impact, improving energy equity, and securing critical material supply chains**.
+The outcomes of my research have far-reaching implications across sectors from electric transportation, energy generation systems, mechatronic systems, aerospace, and robotics, to industrial drives and next-generation manufacturing. 
+By minimizing dependence on rare-earth materials and enabling efficient design and recycling practices, my work directly contributes to reducing environmental impact, improving energy equity, and securing critical material supply chains.
 
 Beyond technical advancement, my research supports a sustainable, resilient, and circular economy, and helps shape a future where high-performance electro-mechanical systems are not only more capable, but also more accessible and environmentally responsible.
 
@@ -28,16 +28,16 @@ Beyond technical advancement, my research supports a sustainable, resilient, and
 
 **1. Rare-earth-free Multi-harmonic Electric Machines**
   - Funding Agency: U.S. Department of Energy (DOE), ORNL-LDRD - Weinberg Fellowship
-  - Funding: **US$720k,3 years**
-  - Role: **Single Principal Investigator (PI)**
+  - Funding: US$ 720k, 3 years
+  - Role: Principal Investigator (PI)
   - Performance improvements in rare-earth-free electric machines by using spatial harmonics and multi-physics design.
   - High-throughput computing and AI/ML techniques for electric machine multi-physics topology discovery and optimization.
 
 **2. High-reliability Drivetrain for Freight Vehicles**
-- Funding Agency: U.S. Department of Energy (DOE), EERE Vehicle Technologies Office (VTO)
+- Funding Agency: U.S. Department of Energy (DOE)
 - Role: Key Contributor
 - Development of brushless electrically-excited synchronous machine using harmonics for high-reliability and rare-earth material reduction.
-- Use of AI/ML techniques for electric machine multi-physics optimization, and fault diagnosis / prognostics.
+- Use of AI/ML techniques for electric drve-train optimization.
 	
 **3. Advanced Recuperated Brayton Converter. with High-temperature for Efficient Power Conversion in Space (ARCHES)**
 - Funding Agency: National Aeronautics and Space Administration (NASA)
@@ -48,12 +48,12 @@ Beyond technical advancement, my research supports a sustainable, resilient, and
 **4. Electric Flightworthy Lightweight Integrated Thermally-enhanced Powertrain System (eFLITES)**
 - Funding Agency: ARPA-E, ASCEND program
 - Role: Key Contributor
-- Multi-physics design of a new electric propulsion system (machine+power electronics + control) to electrify a narrow-body aircraft.
+- Multi-physics design of a new electric propulsion system (machine + power electronics + control) to electrify a narrow-body aircraft.
 	
 **5. Revolutionary Innovation for Sustainable Engines (RISE)**
 - Funding Agency: GE Aerospace / CFM International
 - Role: Key Contributor
-- Open-rotor hybrid-electric aircraft engine design.
+- Power Electronic converter bring-up for the open-rotor hybrid-electric aircraft engine.
 
 **6. High-speed Reluctance Rotors Enabled by Multi-material Additive Manufacturing**
 - Funding Agency: University of Wisconsin-Madison, Office of Vice-Chancellor of Research and Graduate Education
