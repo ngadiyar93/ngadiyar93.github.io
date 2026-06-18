@@ -120,6 +120,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_21/";
+            },},{id: "news-moving-to-the-university-of-notre-dame",
+          title: 'Moving to the University of Notre Dame',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_22/";
             },},{id: "projects-integrated-electro-hydraulic-machine-for-off-highway-vehicle-electrification",
           title: 'Integrated Electro-hydraulic Machine for Off-highway Vehicle Electrification',
           description: "A key enabler to electrify off-highway vehicles and improve their energy efficiency.",
