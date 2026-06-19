@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi there, I am Nishanth Gadiyar, an assistant professor at the University of Notre Dame, where I direct the [AMPERE Lab](https://ampere-lab.github.io). 
+I am an assistant professor at the University of Notre Dame, where I direct the [AMPERE Lab](https://ampere-lab.github.io). 
 
 Prior to joining Notre Dame, I was a member of the R&D staff at the [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/staff-profile/fnu-nishanth), where I also held the Alvin M. Weinberg [distinguished staff fellowship](https://www.ornl.gov/careers/distinguished-fellowships).
 
